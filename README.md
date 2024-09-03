@@ -5,7 +5,7 @@ Purpose: Simulates state indicators for a bunch of countries using ensemble opti
 Disclimer: THis code is intended to facilitate discussion and stimulate hypotheses concerning future scenarios.
 By no means it can be used to support management practices or advise policy decisions.
 
-HOWTO to run:
+HOWTO run:
 
 #Step1:  open wbank_cov.py, search for USER INPUT, uncomment set of countries to simulate over, run the script to produce error-covariance:
 
