@@ -1,4 +1,4 @@
-Model: MOE (Model of Everything)
+MOE (Model of Everything)
 
 Purpose: Simulates state indicators for a bunch of countries individually using ensemble optimal interpolation.
 
