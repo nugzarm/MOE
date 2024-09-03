@@ -1,0 +1,683 @@
+Entity,Code,Year,0_0_Pesticides_kg_ha
+Bahrain,BHR,1990,3.51
+Bahrain,BHR,1991,3.51
+Bahrain,BHR,1992,2.81
+Bahrain,BHR,1993,2.81
+Bahrain,BHR,1994,6.17
+Bahrain,BHR,1995,2.49
+Bahrain,BHR,1996,2.43
+Bahrain,BHR,1997,1.88
+Bahrain,BHR,1998,2.23
+Bahrain,BHR,1999,2.08
+Bahrain,BHR,2000,1.66
+Bahrain,BHR,2001,1.77
+Bahrain,BHR,2002,0.18
+Bahrain,BHR,2003,1.23
+Bahrain,BHR,2004,2.6
+Bahrain,BHR,2005,2.71
+Bahrain,BHR,2006,2.66
+Bahrain,BHR,2007,3.69
+Bahrain,BHR,2008,2.49
+Bahrain,BHR,2009,2.89
+Bahrain,BHR,2010,2.14
+Bahrain,BHR,2011,1.99
+Bahrain,BHR,2012,1.99
+Bahrain,BHR,2013,1.99
+Bahrain,BHR,2014,1.99
+Bahrain,BHR,2015,1.99
+Bahrain,BHR,2016,1.99
+Bahrain,BHR,2017,1.99
+Bahrain,BHR,2018,1.99
+Bahrain,BHR,2019,1.99
+Bahrain,BHR,2020,1.99
+Bangladesh,BGD,1990,0.13
+Bangladesh,BGD,1991,0.13
+Bangladesh,BGD,1992,0.16
+Bangladesh,BGD,1993,0.17
+Bangladesh,BGD,1994,0.18
+Bangladesh,BGD,1995,0.19
+Bangladesh,BGD,1996,0.22
+Bangladesh,BGD,1997,0.23
+Bangladesh,BGD,1998,0.23
+Bangladesh,BGD,1999,0.28
+Bangladesh,BGD,2000,0.36
+Bangladesh,BGD,2001,0.38
+Bangladesh,BGD,2002,0.48
+Bangladesh,BGD,2003,0.63
+Bangladesh,BGD,2004,0.8
+Bangladesh,BGD,2005,0.93
+Bangladesh,BGD,2006,1.08
+Bangladesh,BGD,2007,1.26
+Bangladesh,BGD,2008,1.43
+Bangladesh,BGD,2009,1.59
+Bangladesh,BGD,2010,1.53
+Bangladesh,BGD,2011,1.74
+Bangladesh,BGD,2012,1.56
+Bangladesh,BGD,2013,1.77
+Bangladesh,BGD,2014,1.82
+Bangladesh,BGD,2015,1.51
+Bangladesh,BGD,2016,1.62
+Bangladesh,BGD,2017,1.69
+Bangladesh,BGD,2018,1.68
+Bangladesh,BGD,2019,1.64
+Bangladesh,BGD,2020,1.67
+Bhutan,BTN,1990,0.03
+Bhutan,BTN,1991,0.03
+Bhutan,BTN,1992,0.03
+Bhutan,BTN,1993,0.02
+Bhutan,BTN,1994,0.15
+Bhutan,BTN,1995,0.18
+Bhutan,BTN,1996,0.19
+Bhutan,BTN,1997,0.01
+Bhutan,BTN,1998,0.01
+Bhutan,BTN,1999,0.01
+Bhutan,BTN,2000,0.02
+Bhutan,BTN,2001,0.01
+Bhutan,BTN,2002,0.01
+Bhutan,BTN,2003,0.03
+Bhutan,BTN,2004,0.04
+Bhutan,BTN,2005,0.01
+Bhutan,BTN,2006,0.03
+Bhutan,BTN,2007,0.05
+Bhutan,BTN,2008,0.05
+Bhutan,BTN,2009,0.05
+Bhutan,BTN,2010,0.06
+Bhutan,BTN,2011,0.08
+Bhutan,BTN,2012,0.07
+Bhutan,BTN,2013,0.05
+Bhutan,BTN,2014,0.03
+Bhutan,BTN,2015,0.1
+Bhutan,BTN,2016,0.24
+Bhutan,BTN,2017,0.28
+Bhutan,BTN,2018,0.38
+Bhutan,BTN,2019,0.35
+Bhutan,BTN,2020,0.35
+Brunei,BRN,1990,0.35
+Brunei,BRN,1991,0.35
+Brunei,BRN,1992,0.35
+Brunei,BRN,1993,0.35
+Brunei,BRN,1994,0.35
+Brunei,BRN,1995,0.35
+Brunei,BRN,1996,0.35
+Brunei,BRN,1997,0.35
+Brunei,BRN,1998,0.35
+Brunei,BRN,1999,0.35
+Brunei,BRN,2000,0.35
+Brunei,BRN,2001,0.3
+Brunei,BRN,2002,0.3
+Brunei,BRN,2003,0.3
+Brunei,BRN,2004,0.3
+Brunei,BRN,2005,0.3
+Brunei,BRN,2006,1.42
+Brunei,BRN,2007,1.71
+Brunei,BRN,2008,0.75
+Brunei,BRN,2009,2.79
+Brunei,BRN,2010,3.85
+Brunei,BRN,2011,0.91
+Brunei,BRN,2012,0.16
+Brunei,BRN,2013,1.2
+Brunei,BRN,2014,2.05
+Brunei,BRN,2015,2.05
+Brunei,BRN,2016,2.05
+Brunei,BRN,2017,2.05
+Brunei,BRN,2018,2.05
+Brunei,BRN,2019,2.05
+Brunei,BRN,2020,2.05
+China,CHN,1990,1.1
+China,CHN,1991,1.09
+China,CHN,1992,1.15
+China,CHN,1993,1.23
+China,CHN,1994,1.42
+China,CHN,1995,1.58
+China,CHN,1996,1.66
+China,CHN,1997,1.74
+China,CHN,1998,1.79
+China,CHN,1999,1.92
+China,CHN,2000,1.86
+China,CHN,2001,1.84
+China,CHN,2002,1.89
+China,CHN,2003,1.9
+China,CHN,2004,1.98
+China,CHN,2005,2.07
+China,CHN,2006,2.17
+China,CHN,2007,2.28
+China,CHN,2008,2.34
+China,CHN,2009,2.38
+China,CHN,2010,2.45
+China,CHN,2011,2.49
+China,CHN,2012,2.52
+China,CHN,2013,2.52
+China,CHN,2014,2.52
+China,CHN,2015,2.49
+China,CHN,2016,2.44
+China,CHN,2017,2.32
+China,CHN,2018,2.1
+China,CHN,2019,1.95
+China,CHN,2020,1.95
+Hong Kong,HKG,1990,16.43
+Hong Kong,HKG,1991,13.57
+Hong Kong,HKG,1992,12
+Hong Kong,HKG,1993,10.57
+Hong Kong,HKG,1994,10.14
+Hong Kong,HKG,1995,6.43
+Hong Kong,HKG,1996,6.49
+Hong Kong,HKG,1997,7.63
+Hong Kong,HKG,1998,7.7
+Hong Kong,HKG,1999,7.77
+Hong Kong,HKG,2000,7.83
+Hong Kong,HKG,2001,8.83
+Hong Kong,HKG,2002,14
+Hong Kong,HKG,2003,15
+Hong Kong,HKG,2004,8.5
+Hong Kong,HKG,2005,7.5
+Hong Kong,HKG,2006,9.6
+Hong Kong,HKG,2007,9
+Hong Kong,HKG,2008,11
+Hong Kong,HKG,2009,9.2
+Hong Kong,HKG,2010,9.11
+Hong Kong,HKG,2011,14
+Hong Kong,HKG,2012,13.66
+Hong Kong,HKG,2013,13.9
+Hong Kong,HKG,2014,14.15
+Hong Kong,HKG,2015,12.44
+Hong Kong,HKG,2016,16.25
+Hong Kong,HKG,2017,14.15
+Hong Kong,HKG,2018,17
+Hong Kong,HKG,2019,13.75
+Hong Kong,HKG,2020,18.33
+India,IND,1990,0.44
+India,IND,1991,0.42
+India,IND,1992,0.42
+India,IND,1993,0.39
+India,IND,1994,0.36
+India,IND,1995,0.36
+India,IND,1996,0.33
+India,IND,1997,0.31
+India,IND,1998,0.29
+India,IND,1999,0.27
+India,IND,2000,0.26
+India,IND,2001,0.26
+India,IND,2002,0.25
+India,IND,2003,0.24
+India,IND,2004,0.21
+India,IND,2005,0.21
+India,IND,2006,0.22
+India,IND,2007,0.16
+India,IND,2008,0.09
+India,IND,2009,0.17
+India,IND,2010,0.24
+India,IND,2011,0.33
+India,IND,2012,0.31
+India,IND,2013,0.27
+India,IND,2014,0.33
+India,IND,2015,0.33
+India,IND,2016,0.35
+India,IND,2017,0.38
+India,IND,2018,0.35
+India,IND,2019,0.37
+India,IND,2020,0.37
+Indonesia,IDN,1990,0.08
+Indonesia,IDN,1991,0.11
+Indonesia,IDN,1992,0.03
+Indonesia,IDN,1993,0.05
+Indonesia,IDN,1994,0.05
+Indonesia,IDN,1995,0.05
+Indonesia,IDN,1996,0.05
+Indonesia,IDN,1997,0.05
+Indonesia,IDN,1998,0.05
+Indonesia,IDN,1999,0.05
+Indonesia,IDN,2000,0.04
+Indonesia,IDN,2001,0.04
+Indonesia,IDN,2002,0.04
+Indonesia,IDN,2003,0.04
+Indonesia,IDN,2004,0.04
+Indonesia,IDN,2005,0.04
+Indonesia,IDN,2006,0.04
+Indonesia,IDN,2007,0.04
+Indonesia,IDN,2008,0.04
+Indonesia,IDN,2009,0.04
+Indonesia,IDN,2010,0.04
+Indonesia,IDN,2011,0.04
+Indonesia,IDN,2012,0.04
+Indonesia,IDN,2013,0.03
+Indonesia,IDN,2014,0.03
+Indonesia,IDN,2015,0.03
+Indonesia,IDN,2016,0.03
+Indonesia,IDN,2017,0.03
+Indonesia,IDN,2018,0.03
+Indonesia,IDN,2019,0.03
+Indonesia,IDN,2020,0.03
+Japan,JPN,1990,15.22
+Japan,JPN,1991,15.34
+Japan,JPN,1992,15.45
+Japan,JPN,1993,15.58
+Japan,JPN,1994,15.7
+Japan,JPN,1995,15.84
+Japan,JPN,1996,15.98
+Japan,JPN,1997,16.13
+Japan,JPN,1998,16.27
+Japan,JPN,1999,16.4
+Japan,JPN,2000,16.53
+Japan,JPN,2001,16.43
+Japan,JPN,2002,14.75
+Japan,JPN,2003,14.33
+Japan,JPN,2004,13.72
+Japan,JPN,2005,13.6
+Japan,JPN,2006,13.97
+Japan,JPN,2007,13.15
+Japan,JPN,2008,12.69
+Japan,JPN,2009,13.23
+Japan,JPN,2010,12.1
+Japan,JPN,2011,11.36
+Japan,JPN,2012,12.03
+Japan,JPN,2013,11.63
+Japan,JPN,2014,11.85
+Japan,JPN,2015,12.05
+Japan,JPN,2016,11.41
+Japan,JPN,2017,11.76
+Japan,JPN,2018,11.84
+Japan,JPN,2019,11.82
+Japan,JPN,2020,11.89
+Laos,LAO,1990,0.02
+Laos,LAO,1991,0.02
+Laos,LAO,1992,0.02
+Laos,LAO,1993,0.05
+Laos,LAO,1994,0.04
+Laos,LAO,1995,0.03
+Laos,LAO,1996,0.02
+Laos,LAO,1997,0
+Laos,LAO,1998,0
+Laos,LAO,1999,0
+Laos,LAO,2000,0
+Laos,LAO,2001,0
+Laos,LAO,2002,0
+Laos,LAO,2003,0
+Laos,LAO,2004,0
+Laos,LAO,2005,0
+Laos,LAO,2006,0
+Laos,LAO,2007,0
+Laos,LAO,2008,0
+Laos,LAO,2009,0.02
+Laos,LAO,2010,0
+Laos,LAO,2011,0.03
+Laos,LAO,2012,0.03
+Laos,LAO,2013,0.08
+Laos,LAO,2014,0
+Laos,LAO,2015,0.11
+Laos,LAO,2016,0.11
+Laos,LAO,2017,0.09
+Laos,LAO,2018,0.12
+Laos,LAO,2019,0.13
+Laos,LAO,2020,0.14
+Malaysia,MYS,1990,6.08
+Malaysia,MYS,1991,6.05
+Malaysia,MYS,1992,6.04
+Malaysia,MYS,1993,5.96
+Malaysia,MYS,1994,5.87
+Malaysia,MYS,1995,5.89
+Malaysia,MYS,1996,5.9
+Malaysia,MYS,1997,5.9
+Malaysia,MYS,1998,5.92
+Malaysia,MYS,1999,5.92
+Malaysia,MYS,2000,5.92
+Malaysia,MYS,2001,5.92
+Malaysia,MYS,2002,5.84
+Malaysia,MYS,2003,5.77
+Malaysia,MYS,2004,5.76
+Malaysia,MYS,2005,5.75
+Malaysia,MYS,2006,5.8
+Malaysia,MYS,2007,6.87
+Malaysia,MYS,2008,7.99
+Malaysia,MYS,2009,7.57
+Malaysia,MYS,2010,8.47
+Malaysia,MYS,2011,5.74
+Malaysia,MYS,2012,6.6
+Malaysia,MYS,2013,7.9
+Malaysia,MYS,2014,6.3
+Malaysia,MYS,2015,7.64
+Malaysia,MYS,2016,8.12
+Malaysia,MYS,2017,6.12
+Malaysia,MYS,2018,5.32
+Malaysia,MYS,2019,5.77
+Malaysia,MYS,2020,4.35
+Maldives,MDV,1990,6.33
+Maldives,MDV,1991,6.33
+Maldives,MDV,1992,6.33
+Maldives,MDV,1993,6.33
+Maldives,MDV,1994,6.33
+Maldives,MDV,1995,6.33
+Maldives,MDV,1996,6.33
+Maldives,MDV,1997,6.33
+Maldives,MDV,1998,6.33
+Maldives,MDV,1999,6.33
+Maldives,MDV,2000,5.54
+Maldives,MDV,2001,4.93
+Maldives,MDV,2002,4.03
+Maldives,MDV,2003,4.03
+Maldives,MDV,2004,4.43
+Maldives,MDV,2005,5.54
+Maldives,MDV,2006,7.39
+Maldives,MDV,2007,7.39
+Maldives,MDV,2008,7.39
+Maldives,MDV,2009,7.39
+Maldives,MDV,2010,7.51
+Maldives,MDV,2011,7.51
+Maldives,MDV,2012,12.25
+Maldives,MDV,2013,14.07
+Maldives,MDV,2014,9.98
+Maldives,MDV,2015,19.13
+Maldives,MDV,2016,17.3
+Maldives,MDV,2017,16.28
+Maldives,MDV,2018,19.67
+Maldives,MDV,2019,23.02
+Maldives,MDV,2020,16.69
+Mongolia,MNG,1990,0.08
+Mongolia,MNG,1991,0.08
+Mongolia,MNG,1992,0.08
+Mongolia,MNG,1993,0.09
+Mongolia,MNG,1994,0.09
+Mongolia,MNG,1995,0.09
+Mongolia,MNG,1996,0.09
+Mongolia,MNG,1997,0.09
+Mongolia,MNG,1998,0.09
+Mongolia,MNG,1999,0.1
+Mongolia,MNG,2000,0.1
+Mongolia,MNG,2001,0.1
+Mongolia,MNG,2002,0.1
+Mongolia,MNG,2003,0.1
+Mongolia,MNG,2004,0.1
+Mongolia,MNG,2005,0.1
+Mongolia,MNG,2006,0.1
+Mongolia,MNG,2007,0.1
+Mongolia,MNG,2008,0.1
+Mongolia,MNG,2009,0.09
+Mongolia,MNG,2010,0.09
+Mongolia,MNG,2011,0.09
+Mongolia,MNG,2012,0.09
+Mongolia,MNG,2013,0.09
+Mongolia,MNG,2014,0.09
+Mongolia,MNG,2015,0.09
+Mongolia,MNG,2016,0.09
+Mongolia,MNG,2017,0.09
+Mongolia,MNG,2018,0.09
+Mongolia,MNG,2019,0.09
+Mongolia,MNG,2020,0.09
+Myanmar,MMR,1990,0.02
+Myanmar,MMR,1991,0.01
+Myanmar,MMR,1992,0.02
+Myanmar,MMR,1993,0.02
+Myanmar,MMR,1994,0.02
+Myanmar,MMR,1995,0.03
+Myanmar,MMR,1996,0.01
+Myanmar,MMR,1997,0.01
+Myanmar,MMR,1998,0.03
+Myanmar,MMR,1999,0.04
+Myanmar,MMR,2000,0.05
+Myanmar,MMR,2001,0.07
+Myanmar,MMR,2002,0.09
+Myanmar,MMR,2003,0.08
+Myanmar,MMR,2004,0.1
+Myanmar,MMR,2005,0.13
+Myanmar,MMR,2006,0.34
+Myanmar,MMR,2007,0.29
+Myanmar,MMR,2008,0.12
+Myanmar,MMR,2009,0.09
+Myanmar,MMR,2010,0.27
+Myanmar,MMR,2011,0.38
+Myanmar,MMR,2012,0.25
+Myanmar,MMR,2013,0.24
+Myanmar,MMR,2014,0.44
+Myanmar,MMR,2015,0.62
+Myanmar,MMR,2016,0.97
+Myanmar,MMR,2017,1.37
+Myanmar,MMR,2018,1.22
+Myanmar,MMR,2019,1.39
+Myanmar,MMR,2020,0.94
+Nepal,NPL,1990,0.03
+Nepal,NPL,1991,0.03
+Nepal,NPL,1992,0.03
+Nepal,NPL,1993,0.03
+Nepal,NPL,1994,0.03
+Nepal,NPL,1995,0.03
+Nepal,NPL,1996,0.03
+Nepal,NPL,1997,0.03
+Nepal,NPL,1998,0.04
+Nepal,NPL,1999,0.04
+Nepal,NPL,2000,0.05
+Nepal,NPL,2001,0.05
+Nepal,NPL,2002,0.05
+Nepal,NPL,2003,0.06
+Nepal,NPL,2004,0.06
+Nepal,NPL,2005,0.05
+Nepal,NPL,2006,0.05
+Nepal,NPL,2007,0.14
+Nepal,NPL,2008,0.15
+Nepal,NPL,2009,0.09
+Nepal,NPL,2010,0.14
+Nepal,NPL,2011,0.15
+Nepal,NPL,2012,0.18
+Nepal,NPL,2013,0.2
+Nepal,NPL,2014,0.24
+Nepal,NPL,2015,0.25
+Nepal,NPL,2016,0.27
+Nepal,NPL,2017,0.3
+Nepal,NPL,2018,0.32
+Nepal,NPL,2019,0.35
+Nepal,NPL,2020,0.29
+Oman,OMN,1990,0.53
+Oman,OMN,1991,0.4
+Oman,OMN,1992,1.53
+Oman,OMN,1993,1.44
+Oman,OMN,1994,1.11
+Oman,OMN,1995,1.17
+Oman,OMN,1996,1.21
+Oman,OMN,1997,4.07
+Oman,OMN,1998,4.2
+Oman,OMN,1999,2.42
+Oman,OMN,2000,0.62
+Oman,OMN,2001,0.9
+Oman,OMN,2002,1.19
+Oman,OMN,2003,1.49
+Oman,OMN,2004,1.8
+Oman,OMN,2005,2.32
+Oman,OMN,2006,2.73
+Oman,OMN,2007,2.97
+Oman,OMN,2008,3.19
+Oman,OMN,2009,3.17
+Oman,OMN,2010,3.52
+Oman,OMN,2011,3.85
+Oman,OMN,2012,4.66
+Oman,OMN,2013,6.41
+Oman,OMN,2014,5.96
+Oman,OMN,2015,4.02
+Oman,OMN,2016,4.08
+Oman,OMN,2017,2.73
+Oman,OMN,2018,1.88
+Oman,OMN,2019,2.76
+Oman,OMN,2020,15.78
+Philippines,PHL,1990,1.53
+Philippines,PHL,1991,1.55
+Philippines,PHL,1992,1.58
+Philippines,PHL,1993,1.62
+Philippines,PHL,1994,1.67
+Philippines,PHL,1995,1.73
+Philippines,PHL,1996,1.73
+Philippines,PHL,1997,1.7
+Philippines,PHL,1998,1.72
+Philippines,PHL,1999,1.79
+Philippines,PHL,2000,1.79
+Philippines,PHL,2001,1.81
+Philippines,PHL,2002,1.87
+Philippines,PHL,2003,1.88
+Philippines,PHL,2004,1.81
+Philippines,PHL,2005,1.86
+Philippines,PHL,2006,1.87
+Philippines,PHL,2007,1.89
+Philippines,PHL,2008,1.91
+Philippines,PHL,2009,1.88
+Philippines,PHL,2010,2.01
+Philippines,PHL,2011,1.97
+Philippines,PHL,2012,1.98
+Philippines,PHL,2013,2.04
+Philippines,PHL,2014,2.01
+Philippines,PHL,2015,2.11
+Philippines,PHL,2016,1.96
+Philippines,PHL,2017,1.94
+Philippines,PHL,2018,1.92
+Philippines,PHL,2019,2.23
+Philippines,PHL,2020,2.23
+South Korea,KOR,1990,11.89
+South Korea,KOR,1991,13.14
+South Korea,KOR,1992,12.91
+South Korea,KOR,1993,12.65
+South Korea,KOR,1994,13.27
+South Korea,KOR,1995,13.02
+South Korea,KOR,1996,12.66
+South Korea,KOR,1997,12.9
+South Korea,KOR,1998,11.57
+South Korea,KOR,1999,13.61
+South Korea,KOR,2000,13.39
+South Korea,KOR,2001,14.94
+South Korea,KOR,2002,13.87
+South Korea,KOR,2003,13.33
+South Korea,KOR,2004,13.79
+South Korea,KOR,2005,13.44
+South Korea,KOR,2006,13.38
+South Korea,KOR,2007,13.62
+South Korea,KOR,2008,14.42
+South Korea,KOR,2009,13.12
+South Korea,KOR,2010,11.91
+South Korea,KOR,2011,11.27
+South Korea,KOR,2012,10.08
+South Korea,KOR,2013,10.93
+South Korea,KOR,2014,11.7
+South Korea,KOR,2015,11.6
+South Korea,KOR,2016,12.04
+South Korea,KOR,2017,12.37
+South Korea,KOR,2018,11.73
+South Korea,KOR,2019,10.59
+South Korea,KOR,2020,10.4
+Sri Lanka,LKA,1990,0.83
+Sri Lanka,LKA,1991,0.74
+Sri Lanka,LKA,1992,1.13
+Sri Lanka,LKA,1993,0.93
+Sri Lanka,LKA,1994,0.99
+Sri Lanka,LKA,1995,0.92
+Sri Lanka,LKA,1996,0.88
+Sri Lanka,LKA,1997,0.86
+Sri Lanka,LKA,1998,0.81
+Sri Lanka,LKA,1999,0.93
+Sri Lanka,LKA,2000,0.89
+Sri Lanka,LKA,2001,0.89
+Sri Lanka,LKA,2002,0.89
+Sri Lanka,LKA,2003,0.89
+Sri Lanka,LKA,2004,0.93
+Sri Lanka,LKA,2005,0.84
+Sri Lanka,LKA,2006,0.88
+Sri Lanka,LKA,2007,0.74
+Sri Lanka,LKA,2008,0.53
+Sri Lanka,LKA,2009,0.54
+Sri Lanka,LKA,2010,0.67
+Sri Lanka,LKA,2011,0.56
+Sri Lanka,LKA,2012,0.48
+Sri Lanka,LKA,2013,0.54
+Sri Lanka,LKA,2014,0.41
+Sri Lanka,LKA,2015,1.1
+Sri Lanka,LKA,2016,0.83
+Sri Lanka,LKA,2017,0.55
+Sri Lanka,LKA,2018,0.95
+Sri Lanka,LKA,2019,0.64
+Sri Lanka,LKA,2020,1.08
+Taiwan,TWN,1990,11.18
+Taiwan,TWN,1991,11.26
+Taiwan,TWN,1992,11.36
+Taiwan,TWN,1993,11.38
+Taiwan,TWN,1994,11.42
+Taiwan,TWN,1995,11.4
+Taiwan,TWN,1996,11.42
+Taiwan,TWN,1997,10.83
+Taiwan,TWN,1998,10.4
+Taiwan,TWN,1999,13.38
+Taiwan,TWN,2000,10.58
+Taiwan,TWN,2001,9.98
+Taiwan,TWN,2002,12.45
+Taiwan,TWN,2003,12.02
+Taiwan,TWN,2004,11.61
+Taiwan,TWN,2005,11.08
+Taiwan,TWN,2006,10.86
+Taiwan,TWN,2007,11.49
+Taiwan,TWN,2008,10.68
+Taiwan,TWN,2009,10.54
+Taiwan,TWN,2010,9.66
+Taiwan,TWN,2011,10.22
+Taiwan,TWN,2012,11.7
+Taiwan,TWN,2013,12.04
+Taiwan,TWN,2014,10.78
+Taiwan,TWN,2015,11.67
+Taiwan,TWN,2016,11.97
+Taiwan,TWN,2017,13.3
+Taiwan,TWN,2018,13.34
+Taiwan,TWN,2019,13.35
+Taiwan,TWN,2020,13.35
+Thailand,THA,1990,0.91
+Thailand,THA,1991,0.91
+Thailand,THA,1992,0.92
+Thailand,THA,1993,0.92
+Thailand,THA,1994,1.01
+Thailand,THA,1995,1.18
+Thailand,THA,1996,1.09
+Thailand,THA,1997,1.22
+Thailand,THA,1998,1
+Thailand,THA,1999,1.18
+Thailand,THA,2000,1.07
+Thailand,THA,2001,1.61
+Thailand,THA,2002,2.17
+Thailand,THA,2003,2.73
+Thailand,THA,2004,4.72
+Thailand,THA,2005,2.33
+Thailand,THA,2006,2.18
+Thailand,THA,2007,3.52
+Thailand,THA,2008,3.4
+Thailand,THA,2009,3.38
+Thailand,THA,2010,3.41
+Thailand,THA,2011,4.3
+Thailand,THA,2012,3.3
+Thailand,THA,2013,0.38
+Thailand,THA,2014,1.01
+Thailand,THA,2015,1.21
+Thailand,THA,2016,1.4
+Thailand,THA,2017,1.55
+Thailand,THA,2018,1.58
+Thailand,THA,2019,1.27
+Thailand,THA,2020,0.86
+Vietnam,VNM,1990,3.28
+Vietnam,VNM,1991,3.25
+Vietnam,VNM,1992,3.12
+Vietnam,VNM,1993,3.09
+Vietnam,VNM,1994,3.07
+Vietnam,VNM,1995,3.69
+Vietnam,VNM,1996,4.68
+Vietnam,VNM,1997,4.58
+Vietnam,VNM,1998,2.81
+Vietnam,VNM,1999,2.15
+Vietnam,VNM,2000,2.03
+Vietnam,VNM,2001,2.17
+Vietnam,VNM,2002,2.17
+Vietnam,VNM,2003,2.15
+Vietnam,VNM,2004,2.09
+Vietnam,VNM,2005,2.04
+Vietnam,VNM,2006,2.03
+Vietnam,VNM,2007,2.03
+Vietnam,VNM,2008,2
+Vietnam,VNM,2009,1.98
+Vietnam,VNM,2010,1.89
+Vietnam,VNM,2011,1.89
+Vietnam,VNM,2012,1.89
+Vietnam,VNM,2013,1.88
+Vietnam,VNM,2014,1.87
+Vietnam,VNM,2015,1.66
+Vietnam,VNM,2016,1.66
+Vietnam,VNM,2017,1.66
+Vietnam,VNM,2018,1.67
+Vietnam,VNM,2019,1.63
+Vietnam,VNM,2020,1.63
