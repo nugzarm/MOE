@@ -1,0 +1,756 @@
+Entity,Code,Year,3_1_Renewables_electricity
+Afghanistan,AFG,2000,0.31
+Afghanistan,AFG,2001,0.5
+Afghanistan,AFG,2002,0.56
+Afghanistan,AFG,2003,0.63
+Afghanistan,AFG,2004,0.56
+Afghanistan,AFG,2005,0.59
+Afghanistan,AFG,2006,0.64
+Afghanistan,AFG,2007,0.75
+Afghanistan,AFG,2008,0.54
+Afghanistan,AFG,2009,0.78
+Afghanistan,AFG,2010,0.75
+Afghanistan,AFG,2011,0.6
+Afghanistan,AFG,2012,0.74
+Afghanistan,AFG,2013,0.89
+Afghanistan,AFG,2014,1
+Afghanistan,AFG,2015,1.03
+Afghanistan,AFG,2016,1.06
+Afghanistan,AFG,2017,1.09
+Afghanistan,AFG,2018,0.97
+Afghanistan,AFG,2019,0.89
+Afghanistan,AFG,2020,0.68
+Afghanistan,AFG,2021,0.7
+Afghanistan,AFG,2022,0.7
+Armenia,ARM,2000,1.25
+Armenia,ARM,2001,0.96
+Armenia,ARM,2002,1.64
+Armenia,ARM,2003,1.96
+Armenia,ARM,2004,1.98
+Armenia,ARM,2005,1.75
+Armenia,ARM,2006,1.81
+Armenia,ARM,2007,1.83
+Armenia,ARM,2008,1.78
+Armenia,ARM,2009,2
+Armenia,ARM,2010,2.54
+Armenia,ARM,2011,2.46
+Armenia,ARM,2012,2.3
+Armenia,ARM,2013,2.15
+Armenia,ARM,2014,1.97
+Armenia,ARM,2015,2.18
+Armenia,ARM,2016,2.33
+Armenia,ARM,2017,2.25
+Armenia,ARM,2018,2.31
+Armenia,ARM,2019,2.41
+Armenia,ARM,2020,1.92
+Armenia,ARM,2021,2.49
+Armenia,ARM,2022,2.33
+Azerbaijan,AZE,1990,1.658
+Azerbaijan,AZE,1991,1.7593
+Azerbaijan,AZE,1992,1.7473
+Azerbaijan,AZE,1993,2.426
+Azerbaijan,AZE,1994,1.83
+Azerbaijan,AZE,1995,1.556
+Azerbaijan,AZE,1996,1.537
+Azerbaijan,AZE,1997,1.712
+Azerbaijan,AZE,1998,1.951
+Azerbaijan,AZE,1999,1.506
+Azerbaijan,AZE,2000,1.52
+Azerbaijan,AZE,2001,1.29
+Azerbaijan,AZE,2002,2
+Azerbaijan,AZE,2003,2.44
+Azerbaijan,AZE,2004,2.73
+Azerbaijan,AZE,2005,2.98
+Azerbaijan,AZE,2006,2.49
+Azerbaijan,AZE,2007,2.34
+Azerbaijan,AZE,2008,2.21
+Azerbaijan,AZE,2009,2.29
+Azerbaijan,AZE,2010,3.41
+Azerbaijan,AZE,2011,2.65
+Azerbaijan,AZE,2012,1.8
+Azerbaijan,AZE,2013,1.56
+Azerbaijan,AZE,2014,1.37
+Azerbaijan,AZE,2015,1.71
+Azerbaijan,AZE,2016,2.09
+Azerbaijan,AZE,2017,1.88
+Azerbaijan,AZE,2018,1.95
+Azerbaijan,AZE,2019,1.79
+Azerbaijan,AZE,2020,1.32
+Azerbaijan,AZE,2021,1.52
+Azerbaijan,AZE,2022,1.84
+Georgia,GEO,2000,5.8
+Georgia,GEO,2001,5.49
+Georgia,GEO,2002,6.7
+Georgia,GEO,2003,6.46
+Georgia,GEO,2004,5.99
+Georgia,GEO,2005,6.17
+Georgia,GEO,2006,5.26
+Georgia,GEO,2007,6.75
+Georgia,GEO,2008,7.09
+Georgia,GEO,2009,7.34
+Georgia,GEO,2010,9.27
+Georgia,GEO,2011,7.81
+Georgia,GEO,2012,7.15
+Georgia,GEO,2013,8.19
+Georgia,GEO,2014,8.25
+Georgia,GEO,2015,8.37
+Georgia,GEO,2016,9.25
+Georgia,GEO,2017,9.21
+Georgia,GEO,2018,9.93
+Georgia,GEO,2019,9.02
+Georgia,GEO,2020,8.34
+Georgia,GEO,2021,10.26
+Georgia,GEO,2022,10.86
+Georgia,GEO,2023,10.94
+Iran,IRN,1990,7.381
+Iran,IRN,1991,5.607
+Iran,IRN,1992,9.204
+Iran,IRN,1993,10.533
+Iran,IRN,1994,6.896
+Iran,IRN,1995,8.323
+Iran,IRN,1996,8.814
+Iran,IRN,1997,5.941
+Iran,IRN,1998,7.488
+Iran,IRN,1999,5.178
+Iran,IRN,2000,3.82
+Iran,IRN,2001,4.15
+Iran,IRN,2002,8.04
+Iran,IRN,2003,9.62
+Iran,IRN,2004,11.98
+Iran,IRN,2005,14.52
+Iran,IRN,2006,18.64
+Iran,IRN,2007,18.1
+Iran,IRN,2008,7.64
+Iran,IRN,2009,6.95
+Iran,IRN,2010,10.43
+Iran,IRN,2011,10.91
+Iran,IRN,2012,12.8
+Iran,IRN,2013,14.86
+Iran,IRN,2014,14.75
+Iran,IRN,2015,13.41
+Iran,IRN,2016,15.6
+Iran,IRN,2017,17.66
+Iran,IRN,2018,10.83
+Iran,IRN,2019,35.11
+Iran,IRN,2020,24.93
+Iran,IRN,2021,16.65
+Iran,IRN,2022,9.45
+Iran,IRN,2023,15.95
+Israel,ISR,1990,0.003
+Israel,ISR,1991,0.006
+Israel,ISR,1992,0.029
+Israel,ISR,1993,0.026
+Israel,ISR,1994,0.023
+Israel,ISR,1995,0.025
+Israel,ISR,1996,0.024
+Israel,ISR,1997,0.025
+Israel,ISR,1998,0.025
+Israel,ISR,1999,0.033
+Israel,ISR,2000,0.03
+Israel,ISR,2001,0.02
+Israel,ISR,2002,0.03
+Israel,ISR,2003,0.04
+Israel,ISR,2004,0.04
+Israel,ISR,2005,0.04
+Israel,ISR,2006,0.02
+Israel,ISR,2007,0.02
+Israel,ISR,2008,0.04
+Israel,ISR,2009,0.09
+Israel,ISR,2010,0.17
+Israel,ISR,2011,0.3
+Israel,ISR,2012,0.49
+Israel,ISR,2013,0.57
+Israel,ISR,2014,0.96
+Israel,ISR,2015,1.22
+Israel,ISR,2016,1.7
+Israel,ISR,2017,1.69
+Israel,ISR,2018,1.75
+Israel,ISR,2019,3.3
+Israel,ISR,2020,4.38
+Israel,ISR,2021,5.55
+Israel,ISR,2022,7.55
+Jordan,JOR,2000,0.04
+Jordan,JOR,2001,0.04
+Jordan,JOR,2002,0.05
+Jordan,JOR,2003,0.05
+Jordan,JOR,2004,0.06
+Jordan,JOR,2005,0.06
+Jordan,JOR,2006,0.06
+Jordan,JOR,2007,0.07
+Jordan,JOR,2008,0.07
+Jordan,JOR,2009,0.07
+Jordan,JOR,2010,0.07
+Jordan,JOR,2011,0.06
+Jordan,JOR,2012,0.07
+Jordan,JOR,2013,0.06
+Jordan,JOR,2014,0.07
+Jordan,JOR,2015,0.23
+Jordan,JOR,2016,0.86
+Jordan,JOR,2017,1.4
+Jordan,JOR,2018,2.16
+Jordan,JOR,2019,2.96
+Jordan,JOR,2020,3.92
+Jordan,JOR,2021,4.91
+Jordan,JOR,2022,5
+Kazakhstan,KAZ,1990,7.366
+Kazakhstan,KAZ,1991,7.2
+Kazakhstan,KAZ,1992,6.866
+Kazakhstan,KAZ,1993,7.629
+Kazakhstan,KAZ,1994,9.179
+Kazakhstan,KAZ,1995,8.331
+Kazakhstan,KAZ,1996,7.331
+Kazakhstan,KAZ,1997,6.499
+Kazakhstan,KAZ,1998,6.141
+Kazakhstan,KAZ,1999,6.132
+Kazakhstan,KAZ,2000,7.53
+Kazakhstan,KAZ,2001,8.08
+Kazakhstan,KAZ,2002,8.89
+Kazakhstan,KAZ,2003,8.62
+Kazakhstan,KAZ,2004,8.06
+Kazakhstan,KAZ,2005,7.86
+Kazakhstan,KAZ,2006,7.77
+Kazakhstan,KAZ,2007,8.17
+Kazakhstan,KAZ,2008,7.46
+Kazakhstan,KAZ,2009,6.88
+Kazakhstan,KAZ,2010,8.02
+Kazakhstan,KAZ,2011,7.88
+Kazakhstan,KAZ,2012,7.64
+Kazakhstan,KAZ,2013,7.73
+Kazakhstan,KAZ,2014,8.27
+Kazakhstan,KAZ,2015,9.45
+Kazakhstan,KAZ,2016,11.98
+Kazakhstan,KAZ,2017,11.64
+Kazakhstan,KAZ,2018,10.91
+Kazakhstan,KAZ,2019,11.09
+Kazakhstan,KAZ,2020,11.94
+Kazakhstan,KAZ,2021,12.59
+Kazakhstan,KAZ,2022,13.44
+Kazakhstan,KAZ,2023,14.53
+Kuwait,KWT,1990,0
+Kuwait,KWT,1991,0
+Kuwait,KWT,1992,0
+Kuwait,KWT,1993,0
+Kuwait,KWT,1994,0
+Kuwait,KWT,1995,0
+Kuwait,KWT,1996,0
+Kuwait,KWT,1997,0
+Kuwait,KWT,1998,0
+Kuwait,KWT,1999,0
+Kuwait,KWT,2000,0
+Kuwait,KWT,2001,0
+Kuwait,KWT,2002,0
+Kuwait,KWT,2003,0
+Kuwait,KWT,2004,0
+Kuwait,KWT,2005,0
+Kuwait,KWT,2006,0
+Kuwait,KWT,2007,0
+Kuwait,KWT,2008,0
+Kuwait,KWT,2009,0
+Kuwait,KWT,2010,0
+Kuwait,KWT,2011,0
+Kuwait,KWT,2012,0
+Kuwait,KWT,2013,0.01
+Kuwait,KWT,2014,0.01
+Kuwait,KWT,2015,0.01
+Kuwait,KWT,2016,0.02
+Kuwait,KWT,2017,0.04
+Kuwait,KWT,2018,0.06
+Kuwait,KWT,2019,0.13
+Kuwait,KWT,2020,0.21
+Kuwait,KWT,2021,0.19
+Kuwait,KWT,2022,0.2
+Kuwait,KWT,2023,0.2
+Kyrgyzstan,KGZ,2000,13.55
+Kyrgyzstan,KGZ,2001,12.31
+Kyrgyzstan,KGZ,2002,10.68
+Kyrgyzstan,KGZ,2003,13.38
+Kyrgyzstan,KGZ,2004,13.95
+Kyrgyzstan,KGZ,2005,12.66
+Kyrgyzstan,KGZ,2006,12.35
+Kyrgyzstan,KGZ,2007,12.61
+Kyrgyzstan,KGZ,2008,10.02
+Kyrgyzstan,KGZ,2009,10.11
+Kyrgyzstan,KGZ,2010,11
+Kyrgyzstan,KGZ,2011,14
+Kyrgyzstan,KGZ,2012,14.04
+Kyrgyzstan,KGZ,2013,13
+Kyrgyzstan,KGZ,2014,13.16
+Kyrgyzstan,KGZ,2015,10.99
+Kyrgyzstan,KGZ,2016,11.38
+Kyrgyzstan,KGZ,2017,14.06
+Kyrgyzstan,KGZ,2018,14.17
+Kyrgyzstan,KGZ,2019,13.71
+Kyrgyzstan,KGZ,2020,13.98
+Kyrgyzstan,KGZ,2021,12.96
+Kyrgyzstan,KGZ,2022,11.9
+Lebanon,LBN,2000,0.44
+Lebanon,LBN,2001,0.33
+Lebanon,LBN,2002,0.67
+Lebanon,LBN,2003,1.35
+Lebanon,LBN,2004,1.11
+Lebanon,LBN,2005,1.04
+Lebanon,LBN,2006,0.69
+Lebanon,LBN,2007,0.58
+Lebanon,LBN,2008,0.37
+Lebanon,LBN,2009,0.62
+Lebanon,LBN,2010,0.83
+Lebanon,LBN,2011,0.8
+Lebanon,LBN,2012,1
+Lebanon,LBN,2013,1.26
+Lebanon,LBN,2014,0.21
+Lebanon,LBN,2015,0.5
+Lebanon,LBN,2016,0.43
+Lebanon,LBN,2017,0.48
+Lebanon,LBN,2018,0.45
+Lebanon,LBN,2019,1.13
+Lebanon,LBN,2020,1.22
+Lebanon,LBN,2021,0.96
+Lebanon,LBN,2022,0.95
+Oman,OMN,1980,0
+Oman,OMN,1981,0
+Oman,OMN,1982,0
+Oman,OMN,1983,0
+Oman,OMN,1984,0
+Oman,OMN,1985,0
+Oman,OMN,1986,0
+Oman,OMN,1987,0
+Oman,OMN,1988,0
+Oman,OMN,1989,0
+Oman,OMN,1990,0
+Oman,OMN,1991,0
+Oman,OMN,1992,0
+Oman,OMN,1993,0
+Oman,OMN,1994,0
+Oman,OMN,1995,0
+Oman,OMN,1996,0
+Oman,OMN,1997,0
+Oman,OMN,1998,0
+Oman,OMN,1999,0
+Oman,OMN,2000,0
+Oman,OMN,2001,0
+Oman,OMN,2002,0
+Oman,OMN,2003,0
+Oman,OMN,2004,0
+Oman,OMN,2005,0
+Oman,OMN,2006,0
+Oman,OMN,2007,0
+Oman,OMN,2008,0
+Oman,OMN,2009,0
+Oman,OMN,2010,0
+Oman,OMN,2011,0
+Oman,OMN,2012,0
+Oman,OMN,2013,0
+Oman,OMN,2014,0
+Oman,OMN,2015,0
+Oman,OMN,2016,0
+Oman,OMN,2017,0.02
+Oman,OMN,2018,0.02
+Oman,OMN,2019,0.02
+Oman,OMN,2020,0.21
+Oman,OMN,2021,0.26
+Oman,OMN,2022,0.27
+Oman,OMN,2023,0.27
+Pakistan,PAK,1971,3.8139422
+Pakistan,PAK,1972,4.012815
+Pakistan,PAK,1973,4.233785
+Pakistan,PAK,1974,4.2558823
+Pakistan,PAK,1975,4.896695
+Pakistan,PAK,1976,5.3165383
+Pakistan,PAK,1977,6.3153224
+Pakistan,PAK,1978,7.8400154
+Pakistan,PAK,1979,8.476409
+Pakistan,PAK,1980,8.887413
+Pakistan,PAK,1981,9.28074
+Pakistan,PAK,1982,10.443042
+Pakistan,PAK,1983,12.095898
+Pakistan,PAK,1984,12.537838
+Pakistan,PAK,1985,13.023972
+Pakistan,PAK,1986,12.453869
+Pakistan,PAK,1987,16.373877
+Pakistan,PAK,1988,17.16495
+Pakistan,PAK,1989,17.443373
+Pakistan,PAK,1990,17.0854
+Pakistan,PAK,1991,18.283058
+Pakistan,PAK,1992,19.944752
+Pakistan,PAK,1993,21.933483
+Pakistan,PAK,1994,21.526897
+Pakistan,PAK,1995,22.746653
+Pakistan,PAK,1996,24.797253
+Pakistan,PAK,1997,18.446575
+Pakistan,PAK,1998,24.107826
+Pakistan,PAK,1999,21.5048
+Pakistan,PAK,2000,17.19
+Pakistan,PAK,2001,18.94
+Pakistan,PAK,2002,22.35
+Pakistan,PAK,2003,28.14
+Pakistan,PAK,2004,26.87
+Pakistan,PAK,2005,31.86
+Pakistan,PAK,2006,33.01
+Pakistan,PAK,2007,29.96
+Pakistan,PAK,2008,29.06
+Pakistan,PAK,2009,29.1
+Pakistan,PAK,2010,32.82
+Pakistan,PAK,2011,29.68
+Pakistan,PAK,2012,31.11
+Pakistan,PAK,2013,33.76
+Pakistan,PAK,2014,35.43
+Pakistan,PAK,2015,37.95
+Pakistan,PAK,2016,35.85
+Pakistan,PAK,2017,32.64
+Pakistan,PAK,2018,33.13
+Pakistan,PAK,2019,39.1
+Pakistan,PAK,2020,39.23
+Pakistan,PAK,2021,39.79
+Pakistan,PAK,2022,40.98
+Pakistan,PAK,2023,44.02
+Palestine,PSE,2000,0
+Palestine,PSE,2001,0
+Palestine,PSE,2002,0
+Palestine,PSE,2003,0
+Palestine,PSE,2004,0
+Palestine,PSE,2005,0
+Palestine,PSE,2006,0
+Palestine,PSE,2007,0
+Palestine,PSE,2008,0
+Palestine,PSE,2009,0
+Palestine,PSE,2010,0
+Palestine,PSE,2011,0
+Palestine,PSE,2012,0
+Palestine,PSE,2013,0
+Palestine,PSE,2014,0
+Palestine,PSE,2015,0.01
+Palestine,PSE,2016,0.04
+Palestine,PSE,2017,0.05
+Palestine,PSE,2018,0.06
+Palestine,PSE,2019,0.12
+Palestine,PSE,2020,0.18
+Palestine,PSE,2021,0.2
+Palestine,PSE,2022,0.21
+Qatar,QAT,1971,0
+Qatar,QAT,1972,0
+Qatar,QAT,1973,0
+Qatar,QAT,1974,0
+Qatar,QAT,1975,0
+Qatar,QAT,1976,0
+Qatar,QAT,1977,0
+Qatar,QAT,1978,0
+Qatar,QAT,1979,0
+Qatar,QAT,1980,0
+Qatar,QAT,1981,0
+Qatar,QAT,1982,0
+Qatar,QAT,1983,0
+Qatar,QAT,1984,0
+Qatar,QAT,1985,0
+Qatar,QAT,1986,0
+Qatar,QAT,1987,0
+Qatar,QAT,1988,0
+Qatar,QAT,1989,0
+Qatar,QAT,1990,0
+Qatar,QAT,1991,0
+Qatar,QAT,1992,0
+Qatar,QAT,1993,0
+Qatar,QAT,1994,0
+Qatar,QAT,1995,0
+Qatar,QAT,1996,0
+Qatar,QAT,1997,0
+Qatar,QAT,1998,0
+Qatar,QAT,1999,0
+Qatar,QAT,2000,0
+Qatar,QAT,2001,0
+Qatar,QAT,2002,0
+Qatar,QAT,2003,0
+Qatar,QAT,2004,0
+Qatar,QAT,2005,0
+Qatar,QAT,2006,0
+Qatar,QAT,2007,0
+Qatar,QAT,2008,0
+Qatar,QAT,2009,0
+Qatar,QAT,2010,0
+Qatar,QAT,2011,0
+Qatar,QAT,2012,0.01
+Qatar,QAT,2013,0.08
+Qatar,QAT,2014,0.11
+Qatar,QAT,2015,0.13
+Qatar,QAT,2016,0.13
+Qatar,QAT,2017,0.14
+Qatar,QAT,2018,0.15
+Qatar,QAT,2019,0.13
+Qatar,QAT,2020,0.14
+Qatar,QAT,2021,0.15
+Qatar,QAT,2022,0.15
+Qatar,QAT,2023,0.15
+Saudi Arabia,SAU,1971,0
+Saudi Arabia,SAU,1972,0
+Saudi Arabia,SAU,1973,0
+Saudi Arabia,SAU,1974,0
+Saudi Arabia,SAU,1975,0
+Saudi Arabia,SAU,1976,0
+Saudi Arabia,SAU,1977,0
+Saudi Arabia,SAU,1978,0
+Saudi Arabia,SAU,1979,0
+Saudi Arabia,SAU,1980,0
+Saudi Arabia,SAU,1981,0
+Saudi Arabia,SAU,1982,0
+Saudi Arabia,SAU,1983,0
+Saudi Arabia,SAU,1984,0
+Saudi Arabia,SAU,1985,0
+Saudi Arabia,SAU,1986,0
+Saudi Arabia,SAU,1987,0
+Saudi Arabia,SAU,1988,0
+Saudi Arabia,SAU,1989,0
+Saudi Arabia,SAU,1990,0
+Saudi Arabia,SAU,1991,0
+Saudi Arabia,SAU,1992,0
+Saudi Arabia,SAU,1993,0
+Saudi Arabia,SAU,1994,0
+Saudi Arabia,SAU,1995,0
+Saudi Arabia,SAU,1996,0
+Saudi Arabia,SAU,1997,0
+Saudi Arabia,SAU,1998,0
+Saudi Arabia,SAU,1999,0
+Saudi Arabia,SAU,2000,0
+Saudi Arabia,SAU,2001,0
+Saudi Arabia,SAU,2002,0
+Saudi Arabia,SAU,2003,0
+Saudi Arabia,SAU,2004,0
+Saudi Arabia,SAU,2005,0
+Saudi Arabia,SAU,2006,0
+Saudi Arabia,SAU,2007,0
+Saudi Arabia,SAU,2008,0
+Saudi Arabia,SAU,2009,0
+Saudi Arabia,SAU,2010,0
+Saudi Arabia,SAU,2011,0.01
+Saudi Arabia,SAU,2012,0.03
+Saudi Arabia,SAU,2013,0.04
+Saudi Arabia,SAU,2014,0.05
+Saudi Arabia,SAU,2015,0.05
+Saudi Arabia,SAU,2016,0.05
+Saudi Arabia,SAU,2017,0.07
+Saudi Arabia,SAU,2018,0.16
+Saudi Arabia,SAU,2019,0.22
+Saudi Arabia,SAU,2020,0.22
+Saudi Arabia,SAU,2021,0.84
+Saudi Arabia,SAU,2022,0.84
+Syria,SYR,2000,3.26
+Syria,SYR,2001,3.44
+Syria,SYR,2002,2.48
+Syria,SYR,2003,2.79
+Syria,SYR,2004,4.21
+Syria,SYR,2005,4.35
+Syria,SYR,2006,3.97
+Syria,SYR,2007,3.51
+Syria,SYR,2008,2.9
+Syria,SYR,2009,1.9
+Syria,SYR,2010,2.62
+Syria,SYR,2011,3.03
+Syria,SYR,2012,2.99
+Syria,SYR,2013,3.03
+Syria,SYR,2014,2.37
+Syria,SYR,2015,0.44
+Syria,SYR,2016,0.96
+Syria,SYR,2017,0.78
+Syria,SYR,2018,0.78
+Syria,SYR,2019,0.78
+Syria,SYR,2020,0.78
+Syria,SYR,2021,0.78
+Syria,SYR,2022,0.78
+Turkey,TUR,1965,2.2789998
+Turkey,TUR,1966,2.4601
+Turkey,TUR,1967,2.5548
+Turkey,TUR,1968,3.3537998
+Turkey,TUR,1969,3.6229
+Turkey,TUR,1970,3.1987998
+Turkey,TUR,1971,2.7721999
+Turkey,TUR,1972,3.3792
+Turkey,TUR,1973,2.8004
+Turkey,TUR,1974,3.5628
+Turkey,TUR,1975,6.1236
+Turkey,TUR,1976,8.5358
+Turkey,TUR,1977,8.7903
+Turkey,TUR,1978,9.4718
+Turkey,TUR,1979,10.433901
+Turkey,TUR,1980,11.4842
+Turkey,TUR,1981,12.7261
+Turkey,TUR,1982,14.1667
+Turkey,TUR,1983,11.3427
+Turkey,TUR,1984,13.4484005
+Turkey,TUR,1985,12.0508995
+Turkey,TUR,1986,11.9162
+Turkey,TUR,1987,18.6757
+Turkey,TUR,1988,29.018
+Turkey,TUR,1989,18.0022
+Turkey,TUR,1990,23.23
+Turkey,TUR,1991,22.8
+Turkey,TUR,1992,26.69
+Turkey,TUR,1993,34.09
+Turkey,TUR,1994,30.72
+Turkey,TUR,1995,35.85
+Turkey,TUR,1996,40.73
+Turkey,TUR,1997,40.19
+Turkey,TUR,1998,42.56
+Turkey,TUR,1999,34.91
+Turkey,TUR,2000,31.16
+Turkey,TUR,2001,24.34
+Turkey,TUR,2002,33.96
+Turkey,TUR,2003,35.56
+Turkey,TUR,2004,46.31
+Turkey,TUR,2005,39.74
+Turkey,TUR,2006,44.52
+Turkey,TUR,2007,36.46
+Turkey,TUR,2008,34.42
+Turkey,TUR,2009,38.15
+Turkey,TUR,2010,55.72
+Turkey,TUR,2011,58.09
+Turkey,TUR,2012,65.21
+Turkey,TUR,2013,69.22
+Turkey,TUR,2014,52.62
+Turkey,TUR,2015,83.65
+Turkey,TUR,2016,90.24
+Turkey,TUR,2017,87.24
+Turkey,TUR,2018,96.82
+Turkey,TUR,2019,131.47
+Turkey,TUR,2020,127.33
+Turkey,TUR,2021,116.07
+Turkey,TUR,2022,134.35
+Turkey,TUR,2023,134.34
+Turkmenistan,TKM,1990,0.003
+Turkmenistan,TKM,1991,0.003
+Turkmenistan,TKM,1992,0.0042
+Turkmenistan,TKM,1993,0.005
+Turkmenistan,TKM,1994,0.004
+Turkmenistan,TKM,1995,0.004
+Turkmenistan,TKM,1996,0.005
+Turkmenistan,TKM,1997,0.005
+Turkmenistan,TKM,1998,0.006
+Turkmenistan,TKM,1999,0.005
+Turkmenistan,TKM,2000,0
+Turkmenistan,TKM,2001,0
+Turkmenistan,TKM,2002,0
+Turkmenistan,TKM,2003,0
+Turkmenistan,TKM,2004,0
+Turkmenistan,TKM,2005,0
+Turkmenistan,TKM,2006,0
+Turkmenistan,TKM,2007,0
+Turkmenistan,TKM,2008,0
+Turkmenistan,TKM,2009,0
+Turkmenistan,TKM,2010,0
+Turkmenistan,TKM,2011,0
+Turkmenistan,TKM,2012,0
+Turkmenistan,TKM,2013,0
+Turkmenistan,TKM,2014,0
+Turkmenistan,TKM,2015,0
+Turkmenistan,TKM,2016,0
+Turkmenistan,TKM,2017,0
+Turkmenistan,TKM,2018,0
+Turkmenistan,TKM,2019,0
+Turkmenistan,TKM,2020,0
+Turkmenistan,TKM,2021,0.01
+Turkmenistan,TKM,2022,0.01
+United Arab Emirates,ARE,1971,0
+United Arab Emirates,ARE,1972,0
+United Arab Emirates,ARE,1973,0
+United Arab Emirates,ARE,1974,0
+United Arab Emirates,ARE,1975,0
+United Arab Emirates,ARE,1976,0
+United Arab Emirates,ARE,1977,0
+United Arab Emirates,ARE,1978,0
+United Arab Emirates,ARE,1979,0
+United Arab Emirates,ARE,1980,0
+United Arab Emirates,ARE,1981,0
+United Arab Emirates,ARE,1982,0
+United Arab Emirates,ARE,1983,0
+United Arab Emirates,ARE,1984,0
+United Arab Emirates,ARE,1985,0
+United Arab Emirates,ARE,1986,0
+United Arab Emirates,ARE,1987,0
+United Arab Emirates,ARE,1988,0
+United Arab Emirates,ARE,1989,0
+United Arab Emirates,ARE,1990,0
+United Arab Emirates,ARE,1991,0
+United Arab Emirates,ARE,1992,0
+United Arab Emirates,ARE,1993,0
+United Arab Emirates,ARE,1994,0
+United Arab Emirates,ARE,1995,0
+United Arab Emirates,ARE,1996,0
+United Arab Emirates,ARE,1997,0
+United Arab Emirates,ARE,1998,0
+United Arab Emirates,ARE,1999,0
+United Arab Emirates,ARE,2000,0
+United Arab Emirates,ARE,2001,0
+United Arab Emirates,ARE,2002,0
+United Arab Emirates,ARE,2003,0
+United Arab Emirates,ARE,2004,0
+United Arab Emirates,ARE,2005,0
+United Arab Emirates,ARE,2006,0
+United Arab Emirates,ARE,2007,0
+United Arab Emirates,ARE,2008,0
+United Arab Emirates,ARE,2009,0.01
+United Arab Emirates,ARE,2010,0.02
+United Arab Emirates,ARE,2011,0.02
+United Arab Emirates,ARE,2012,0.02
+United Arab Emirates,ARE,2013,0.09
+United Arab Emirates,ARE,2014,0.31
+United Arab Emirates,ARE,2015,0.3
+United Arab Emirates,ARE,2016,0.32
+United Arab Emirates,ARE,2017,0.75
+United Arab Emirates,ARE,2018,1.2
+United Arab Emirates,ARE,2019,3.66
+United Arab Emirates,ARE,2020,5.18
+United Arab Emirates,ARE,2021,6.25
+United Arab Emirates,ARE,2022,6.97
+Uzbekistan,UZB,1990,6.648
+Uzbekistan,UZB,1991,6.031
+Uzbekistan,UZB,1992,6.281
+Uzbekistan,UZB,1993,7.358
+Uzbekistan,UZB,1994,7.156
+Uzbekistan,UZB,1995,6.188
+Uzbekistan,UZB,1996,6.525
+Uzbekistan,UZB,1997,5.777
+Uzbekistan,UZB,1998,5.758
+Uzbekistan,UZB,1999,5.692
+Uzbekistan,UZB,2000,3.53
+Uzbekistan,UZB,2001,4.36
+Uzbekistan,UZB,2002,6.02
+Uzbekistan,UZB,2003,8.17
+Uzbekistan,UZB,2004,6.1
+Uzbekistan,UZB,2005,8.93
+Uzbekistan,UZB,2006,4.65
+Uzbekistan,UZB,2007,4.67
+Uzbekistan,UZB,2008,4.49
+Uzbekistan,UZB,2009,6.48
+Uzbekistan,UZB,2010,8.19
+Uzbekistan,UZB,2011,5.7
+Uzbekistan,UZB,2012,6.65
+Uzbekistan,UZB,2013,5.7
+Uzbekistan,UZB,2014,6.07
+Uzbekistan,UZB,2015,6.82
+Uzbekistan,UZB,2016,6.86
+Uzbekistan,UZB,2017,7.94
+Uzbekistan,UZB,2018,5.91
+Uzbekistan,UZB,2019,6.47
+Uzbekistan,UZB,2020,5.01
+Uzbekistan,UZB,2021,4.98
+Uzbekistan,UZB,2022,4.98
+Yemen,YEM,2000,0
+Yemen,YEM,2001,0
+Yemen,YEM,2002,0
+Yemen,YEM,2003,0
+Yemen,YEM,2004,0
+Yemen,YEM,2005,0
+Yemen,YEM,2006,0
+Yemen,YEM,2007,0
+Yemen,YEM,2008,0
+Yemen,YEM,2009,0
+Yemen,YEM,2010,0
+Yemen,YEM,2011,0
+Yemen,YEM,2012,0
+Yemen,YEM,2013,0
+Yemen,YEM,2014,0.01
+Yemen,YEM,2015,0.12
+Yemen,YEM,2016,0.16
+Yemen,YEM,2017,0.19
+Yemen,YEM,2018,0.48
+Yemen,YEM,2019,0.48
+Yemen,YEM,2020,0.49
+Yemen,YEM,2021,0.6
+Yemen,YEM,2022,0.6

@@ -1,0 +1,408 @@
+2016 160 160 160 3 TUR Turkey
+2014 626 626 671 3 YEM Yemen
+2015 35 35 35 3 YEM Yemen
+2014 159 159 169 3 PAK Pakistan
+2001 1397 1388 2075 2 AFG Afghanistan
+2009 335 331 404 3 PAK Pakistan
+2010 72 72 72 3 PAK Pakistan
+2012 334 334 335 3 PAK Pakistan
+2013 99 99 99 3 PAK Pakistan
+2014 136 134 146 3 PAK Pakistan
+2012 30 30 30 3 PAK Pakistan
+2016 35 35 35 3 PAK Pakistan
+2011 1203 1121 1451 3 SYR Syria
+2012 50440 48722 55486 3 SYR: TUR Syria:_Turkey
+2013 70506 67105 75007 3 IRQ: LBN: SYR Iraq:_Lebanon:_Syria
+2014 57945 56580 60210 3 LBN: SYR Lebanon:_Syria
+2015 39688 38113 41135 4 JOR: SYR Jordan:_Syria
+2016 32590 31439 33726 4 SYR Syria
+2017 12203 11630 12910 4 LBN: SYR Lebanon:_Syria
+2018 8690 8247 9167 4 SYR Syria
+2019 6865 6718 7182 4 SYR Syria
+2020 3513 3435 3718 4 RUS : SYR Russia_(Soviet_Union):_Syria
+2021 674 662 783 4 SYR Syria
+2019 31 31 46 3 IRN Iran
+2012 46 39 51 3 SYR Syria
+2013 78 63 77 3 SYR Syria
+2014 52 37 61 3 SYR Syria
+2015 84 81 86 3 SYR Syria
+2014 36 36 36 3 PAK Pakistan
+2021 56 56 56 2 KGZ: TJK Kyrgyzstan:_Tajikistan
+2014 126 126 126 3 LBN Lebanon
+2015 76 42 135 3 LBN Lebanon
+2017 70 69 96 3 LBN Lebanon
+2016 68 68 68 3 PAK Pakistan
+2017 80 80 81 3 PAK Pakistan
+2018 51 51 51 3 PAK Pakistan
+2019 29 29 29 3 PAK Pakistan
+2021 26 26 26 3 PAK Pakistan
+2015 674 625 865 4 AFG Afghanistan
+2016 2141 2100 2544 4 AFG Afghanistan
+2017 2795 2738 3009 4 AFG Afghanistan
+2018 2842 2770 5149 4 AFG Afghanistan
+2019 1075 1045 1435 4 AFG Afghanistan
+2020 316 279 356 4 AFG Afghanistan
+2021 264 206 322 4 AFG: PAK Afghanistan:_Pakistan
+2015 6467 6287 7441 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2016 3014 3012 3060 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2017 2674 2673 2919 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2018 4480 4442 6571 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2019 1778 1723 1945 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2020 2335 2238 2522 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2021 23189 21937 33466 4 SAU: YEM  Saudi_Arabia:_Yemen_(North_Yemen)
+2015 246 246 251 3 YEM  Yemen_(North_Yemen)
+2017 26 5 26 3 YEM  Yemen_(North_Yemen)
+2020 33 11 62 3 YEM  Yemen_(North_Yemen)
+2013 1422 1414 1642 3 SYR Syria
+2014 7336 6977 8114 3 SYR Syria
+2015 10382 9967 10708 4 SYR Syria
+2016 10903 10651 11248 4 SYR Syria
+2017 11920 11667 13077 4 SYR Syria
+2018 4347 4340 4461 4 SYR Syria
+2019 523 522 636 4 SYR Syria
+2020 1076 771 1377 4 SYR Syria
+2021 680 680 774 4 SYR Syria
+2015 26 26 27 3 SYR: TUR Syria:_Turkey
+2016 1087 1082 1087 3 IRQ: SYR: TUR Iraq:_Syria:_Turkey
+2017 770 703 916 3 SYR: TUR Syria:_Turkey
+2016 34 34 35 3 JOR: SYR Jordan:_Syria
+2016 152 145 154 3 SYR Syria
+2018 35 35 87 3 SYR Syria
+2017 27 27 27 3 IRN Iran
+2016 274 274 354 3 TUR Turkey
+2017 235 235 366 3 YEM  Yemen_(North_Yemen)
+2018 111 111 127 2 SYR Syria
+2019 138 113 153 2 SYR Syria
+2020 461 398 473 2 IRN: IRQ: SYR: YEM  Iran:_Iraq:_Syria:_Yemen_(North_Yemen)
+2021 162 157 172 2 SYR Syria
+2019 37 37 37 3 PAK Pakistan
+2020 120 77 121 3 PAK Pakistan
+2021 129 109 147 3 PAK Pakistan
+2020 55 55 70 4 AFG Afghanistan
+2021 534 85 1834 3 AFG Afghanistan
+2000 30 30 30 3 TUR Turkey
+1990 31 31 335 3 IRN Iran
+1993 110 110 110 3 IRN: IRQ Iran:_Iraq
+1996 27 27 29 3 IRN: IRQ Iran:_Iraq
+2016 30 30 137 3 IRN: IRQ Iran:_Iraq
+2018 44 33 78 3 IRN: IRQ Iran:_Iraq
+1990 28 26 28 2 IND: PAK India:_Pakistan
+1991 99 99 195 2 IND: PAK India:_Pakistan
+1994 42 42 42 2 IND: PAK India:_Pakistan
+1996 35 35 35 2 IND: PAK India:_Pakistan
+1997 127 127 133 2 IND: PAK India:_Pakistan
+1998 147 147 163 2 IND: PAK India:_Pakistan
+1999 934 914 1508 2 IND: PAK India:_Pakistan
+2000 198 198 234 2 IND: PAK India:_Pakistan
+2001 46 46 84 2 IND: PAK India:_Pakistan
+2002 212 212 233 2 IND: PAK India:_Pakistan
+2003 237 237 276 2 IND: PAK India:_Pakistan
+2013 31 31 33 2 IND: PAK India:_Pakistan
+2014 49 46 68 2 IND: PAK India:_Pakistan
+2015 63 62 64 2 IND: PAK India:_Pakistan
+2016 100 100 112 2 IND: PAK India:_Pakistan
+2017 151 151 153 2 IND: PAK India:_Pakistan
+2018 129 126 164 2 IND: PAK India:_Pakistan
+2019 164 164 175 2 IND: PAK India:_Pakistan
+2020 162 162 168 2 IND: PAK India:_Pakistan
+2009 94 94 103 4 YEM  Yemen_(North_Yemen)
+2010 175 149 244 4 YEM  Yemen_(North_Yemen)
+2011 1140 1135 1195 4 YEM  Yemen_(North_Yemen)
+2012 2330 2328 2415 4 YEM  Yemen_(North_Yemen)
+2013 582 581 641 4 YEM  Yemen_(North_Yemen)
+2014 1034 1034 1375 4 YEM  Yemen_(North_Yemen)
+2015 145 145 153 3 YEM  Yemen_(North_Yemen)
+2016 32 10 33 3 YEM  Yemen_(North_Yemen)
+2017 130 4 163 3 YEM  Yemen_(North_Yemen)
+2018 36 7 37 3 YEM  Yemen_(North_Yemen)
+1989 27 27 30 3 ISR: LBN Israel:_Lebanon
+2001 27 24 34 3 ISR Israel
+1989 27 27 33 3 ISR: LBN Israel:_Lebanon
+1990 29 26 49 3 ISR: LBN Israel:_Lebanon
+1991 28 28 30 3 ISR: LBN Israel:_Lebanon
+1992 33 32 36 3 FRA: ISR: LBN France:_Israel:_Lebanon
+2000 30 27 32 3 ISR Israel
+2001 37 37 42 3 ISR Israel
+2002 62 62 62 3 ISR Israel
+2005 39 37 41 3 ISR Israel
+2006 72 68 81 3 ISR Israel
+2007 41 41 47 3 ISR Israel
+1993 47 47 48 3 ISR Israel
+1994 44 41 45 3 ISR Israel
+2001 79 77 83 3 ISR Israel
+2002 195 189 201 3 ISR Israel
+2003 220 220 231 3 ISR Israel
+2004 204 202 238 3 ISR: SYR Israel:_Syria
+2005 34 34 41 3 ISR Israel
+2006 121 121 148 3 ISR Israel
+2007 141 141 160 3 ISR Israel
+2008 603 515 641 3 ISR Israel
+2009 657 559 828 3 ISR Israel
+2011 35 35 35 3 ISR Israel
+2012 197 198 207 3 ISR Israel
+2014 2143 2133 2146 3 ISR Israel
+2018 53 53 62 3 ISR Israel
+2021 233 233 233 3 ISR Israel
+1995 34 34 36 3 ISR: MLT Israel:_Malta
+2001 26 26 26 3 ISR Israel
+2002 107 107 111 3 ISR Israel
+2003 52 52 56 3 ISR Israel
+2004 70 60 74 3 ISR Israel
+2005 47 45 53 3 ISR Israel
+2006 90 90 97 3 ISR: LBN Israel:_Lebanon
+2007 94 93 98 3 ISR Israel
+2008 62 62 71 3 ISR Israel
+2009 39 39 39 3 ISR Israel
+2010 27 27 27 3 ISR Israel
+2011 43 43 43 3 ISR Israel
+2012 38 38 38 3 ISR Israel
+2014 227 227 229 3 ISR Israel
+2019 50 50 51 3 ISR: SYR Israel:_Syria
+2021 36 36 36 3 ISR Israel
+1996 66 66 66 3 ISR Israel
+2000 47 47 47 3 ISR Israel
+2001 75 74 76 3 ISR Israel
+2002 116 115 152 3 ISR Israel
+2002 131 131 141 3 ISR Israel
+2003 38 38 42 3 ISR Israel
+2004 105 105 116 3 ISR Israel
+2006 45 42 52 3 ISR Israel
+2013 1870 1723 1925 3 IRQ: SYR Iraq:_Syria
+2014 13761 13035 15037 4 IRQ: SYR Iraq:_Syria
+2015 10981 10919 12182 4 FRA: IRQ: LBY: SYR France:_Iraq:_Libya:_Syria
+2016 9775 9543 10214 4 Belgium: IRQ: LBY: SYR Belgium:_Iraq:_Libya:_Syria
+2017 10025 9776 12186 4 AFG: FRA: IRQ: PAK: SYR: YEM  Afghanistan:_France:_Iraq:_Pakistan:_Syria:_Yemen_(North_Yemen)
+2018 866 856 900 4 Australia: Belgium: FRA: IRQ: SYR Australia:_Belgium:_France:_Iraq:_Syria
+2019 498 497 520 4 IRQ: SYR: GBR Iraq:_Syria:_United_Kingdom
+2020 671 638 711 4 IRQ: SYR Iraq:_Syria
+2021 707 628 816 4 AFG: IRQ Afghanistan:_Iraq
+1989 458 401 616 4 LBN Lebanon
+1990 700 400 800 4 LBN Lebanon
+1989 253 205 290 4 LBN Lebanon
+1996 356 356 366 3 IRN: IRQ Iran:_Iraq
+2012 25 25 35 3 PAK Pakistan
+2015 44 44 44 3 PAK Pakistan
+2004 43 43 58 3 PAK Pakistan
+2006 43 43 52 3 PAK Pakistan
+2007 83 82 331 3 PAK Pakistan
+2008 54 54 86 3 PAK Pakistan
+2009 32 32 48 3 PAK Pakistan
+2011 42 42 123 3 PAK Pakistan
+2012 31 31 31 3 PAK Pakistan
+2013 45 45 45 3 PAK Pakistan
+2014 46 46 46 3 PAK Pakistan
+2015 31 31 31 3 PAK Pakistan
+2016 59 59 59 3 PAK Pakistan
+2006 157 157 157 3 PAK Pakistan
+2008 143 132 147 3 PAK Pakistan
+2009 49 49 54 3 PAK Pakistan
+2012 62 62 296 3 PAK Pakistan
+2014 44 44 44 3 PAK Pakistan
+2015 32 32 32 3 PAK Pakistan
+1989 1545 1374 1745 4 AFG Afghanistan
+1990 581 515 1231 3 AFG Afghanistan
+1991 385 334 385 3 AFG Afghanistan
+1992 35 35 35 3 AFG Afghanistan
+1996 314 314 314 3 AFG Afghanistan
+1989 181 1 181 4 AFG Afghanistan
+1990 586 586 586 3 AFG Afghanistan
+1991 451 451 951 3 AFG Afghanistan
+1992 3890 3873 5047 3 AFG Afghanistan
+1993 3160 3160 7234 3 AFG Afghanistan
+1994 669 669 907 3 AFG Afghanistan
+1995 207 207 207 3 AFG Afghanistan
+2002 30 30 30 3 AFG Afghanistan
+2003 32 32 45 4 AFG Afghanistan
+2006 40 40 60 3 AFG Afghanistan
+2008 97 92 117 4 AFG: PAK Afghanistan:_Pakistan
+2009 54 54 70 4 AFG Afghanistan
+2010 98 97 101 4 AFG Afghanistan
+2011 49 48 52 4 AFG Afghanistan
+2013 35 35 35 4 AFG Afghanistan
+1989 3393 474 14991 4 AFG Afghanistan
+1990 178 89 220 3 AFG Afghanistan
+1991 2441 2346 2441 3 AFG Afghanistan
+1989 30 30 30 4 AFG Afghanistan
+1989 25 25 104 4 AFG Afghanistan
+1990 25 25 25 3 AFG Afghanistan
+1991 25 25 25 3 AFG Afghanistan
+1992 351 351 378 3 AFG Afghanistan
+1993 476 468 486 3 AFG Afghanistan
+1994 191 191 946 3 AFG Afghanistan
+1995 168 168 168 3 AFG Afghanistan
+1990 108 108 213 3 AFG Afghanistan
+1993 85 85 85 3 AFG Afghanistan
+1994 8077 8077 10102 3 AFG Afghanistan
+1995 871 871 1181 3 AFG Afghanistan
+1995 4270 4270 4934 3 AFG: PAK Afghanistan:_Pakistan
+1996 1922 1912 2183 3 AFG Afghanistan
+2003 628 614 939 4 AFG Afghanistan
+2004 711 669 1245 4 AFG: PAK Afghanistan:_Pakistan
+2005 1628 1424 1992 4 AFG: PAK Afghanistan:_Pakistan
+2006 4694 4625 5483 4 AFG: PAK Afghanistan:_Pakistan
+2007 6843 6298 8381 4 AFG: PAK Afghanistan:_Pakistan
+2008 5558 5112 7072 4 AFG: PAK Afghanistan:_Pakistan
+2009 6327 5596 7984 4 AFG: PAK Afghanistan:_Pakistan
+2010 6931 6759 8350 4 AFG: PAK Afghanistan:_Pakistan
+2011 7374 7231 8238 4 AFG: PAK Afghanistan:_Pakistan
+2012 7730 7558 8541 4 AFG: PAK Afghanistan:_Pakistan
+2013 8013 7577 10137 4 AFG: PAK Afghanistan:_Pakistan
+2014 12345 11555 15718 4 AFG: PAK Afghanistan:_Pakistan
+2015 16581 15562 19807 4 AFG: PAK Afghanistan:_Pakistan
+2016 15775 14410 21671 4 AFG: PAK Afghanistan:_Pakistan
+2017 16173 15398 17678 4 AFG: PAK Afghanistan:_Pakistan
+2018 22837 21486 24780 4 AFG: PAK Afghanistan:_Pakistan
+2019 28828 26973 33289 4 AFG Afghanistan
+2020 20104 18641 21314 4 AFG Afghanistan
+2021 34794 33327 37714 4 AFG Afghanistan
+1996 941 935 1141 3 AFG Afghanistan
+1997 6396 4244 8281 3 AFG Afghanistan
+1998 6256 6168 7698 3 AFG Afghanistan
+1999 4629 4594 4945 3 AFG Afghanistan
+2000 5235 4053 5511 3 AFG Afghanistan
+2001 2328 2217 7657 4 AFG Afghanistan
+1991 45 45 45 3 IRN: IRQ Iran:_Iraq
+1993 76 76 152 3 IRN: IRQ: ITA: PAK Iran:_Iraq:_Italy:_Pakistan
+1997 38 38 42 3 IRN: IRQ Iran:_Iraq
+1999 28 28 35 3 IRN: IRQ Iran:_Iraq
+2000 40 40 77 3 IRN: IRQ Iran:_Iraq
+2001 119 119 149 3 IRN: IRQ Iran:_Iraq
+2005 28 28 37 3 IRN Iran
+2006 31 26 68 3 IRN: IRQ Iran:_Iraq
+2007 61 40 131 3 IRN: IRQ Iran:_Iraq
+2008 42 42 178 3 IRN: IRQ Iran:_Iraq
+2009 67 67 67 3 IRN Iran
+2011 242 235 246 3 IRN: IRQ Iran:_Iraq
+2018 28 27 37 3 IRN: IRQ Iran:_Iraq
+2020 35 27 44 3 IRN: IRQ Iran:_Iraq
+2021 30 18 30 3 IRN: IRQ Iran:_Iraq
+2006 26 26 55 3 IRN Iran
+2007 25 21 69 3 IRN Iran
+2008 79 79 87 3 IRN: PAK Iran:_Pakistan
+2009 66 54 81 3 IRN Iran
+2010 74 74 74 3 IRN Iran
+1989 442 442 442 3 TUR Turkey
+1990 526 514 525 3 TUR Turkey
+1991 353 352 357 3 IRQ: TUR Iraq:_Turkey
+1992 1637 1637 1717 3 IRQ: TUR Iraq:_Turkey
+1993 2301 2301 2589 3 TUR Turkey
+1994 4105 4104 4207 3 IRQ: TUR Iraq:_Turkey
+1995 3170 3170 3264 3 IRQ: TUR Iraq:_Turkey
+1996 3514 3514 3548 3 IRQ: TUR Iraq:_Turkey
+1997 4336 4335 5558 3 IRQ: TUR Iraq:_Turkey
+1998 2043 2042 2127 3 IRQ: TUR Iraq:_Turkey
+1999 1400 1400 1477 3 IRQ: TUR Iraq:_Turkey
+2000 176 176 180 3 IRQ: TUR Iraq:_Turkey
+2001 132 132 147 3 IRQ: TUR Iraq:_Turkey
+2002 54 54 73 3 IRQ: TUR Iraq:_Turkey
+2003 82 82 85 3 IRQ: TUR Iraq:_Turkey
+2004 195 195 333 3 IRQ: TUR Iraq:_Turkey
+2005 263 258 294 3 TUR Turkey
+2006 225 225 276 3 TUR Turkey
+2007 499 499 521 3 IRQ: TUR Iraq:_Turkey
+2008 588 550 974 3 IRQ: TUR Iraq:_Turkey
+2009 147 142 162 3 IRQ: TUR Iraq:_Turkey
+2010 352 343 410 3 IRQ: TUR Iraq:_Turkey
+2011 592 591 759 3 IRQ: TUR Iraq:_Turkey
+2012 853 853 866 3 IRQ: TUR Iraq:_Turkey
+2013 31 31 35 3 IRQ: TUR Iraq:_Turkey
+2015 907 902 1402 3 IRQ: TUR Iraq:_Turkey
+2016 1063 1063 1073 3 IRQ: TUR Iraq:_Turkey
+2017 707 707 722 3 IRQ: SYR: TUR Iraq:_Syria:_Turkey
+2018 895 887 903 3 IRN: IRQ: TUR Iran:_Iraq:_Turkey
+2019 542 542 623 3 IRQ: TUR Iraq:_Turkey
+2020 375 372 391 3 IRQ: TUR Iraq:_Turkey
+2021 447 438 545 3 IRQ: SYR: TUR Iraq:_Syria:_Turkey
+2000 2353 2341 2408 3 IND: PAK India:_Pakistan
+2016 281 281 296 3 AFG: IND Afghanistan:_India
+2020 311 311 312 3 IND: PAK India:_Pakistan
+2021 250 247 254 3 IND: PAK India:_Pakistan
+1990 1058 1058 1058 2 KWT Kuwait
+1991 21790 21747 26203 2 IRQ: KWT Iraq:_Kuwait:_Philippines:_Saudi_Arabia
+1991 52 52 170 3 GEO Georgia
+1992 71 71 76 3 GEO Georgia
+1993 152 152 152 3 GEO Georgia
+1991 39 39 39 3 TUR Turkey
+1992 71 71 71 3 TUR Turkey
+1993 32 32 32 3 TUR Turkey
+2005 30 30 30 3 TUR Turkey
+1991 35 35 35 4 AZE Azerbaijan
+1992 2167 2099 3635 4 ARM: AZE Armenia:_Azerbaijan
+1993 1171 968 1801 4 ARM: AZE Armenia:_Azerbaijan
+1994 1507 1257 3937 3 ARM: AZE Armenia:_Azerbaijan
+1997 29 29 36 4 AZE Azerbaijan
+1998 34 34 38 4 AZE Azerbaijan
+2005 25 25 26 4 ARM: AZE Armenia:_Azerbaijan
+2008 30 30 43 4 AZE Azerbaijan
+2012 25 25 27 4 ARM: AZE Armenia:_Azerbaijan
+2014 46 45 54 4 AZE Azerbaijan
+2015 72 65 121 4 ARM: AZE Armenia:_Azerbaijan
+2016 141 141 263 4 ARM: AZE Armenia:_Azerbaijan
+2017 36 36 37 4 AZE Azerbaijan
+2020 7646 7548 9077 4 ARM: AZE Armenia:_Azerbaijan
+2021 40 40 43 4 ARM: AZE Armenia:_Azerbaijan
+1992 566 566 1195 3 GEO Georgia
+1993 1611 1611 2563 3 GEO Georgia
+1992 134 134 137 3 GEO Georgia
+2004 27 27 73 3 GEO Georgia
+2008 621 621 859 4 GEO Georgia
+1993 1395 1395 1596 4 AFG: TJK Afghanistan:_Tajikistan
+1995 368 362 649 4 AFG: TJK Afghanistan:_Tajikistan
+1993 60 60 88 3 AZE Azerbaijan
+1995 44 44 72 3 AZE Azerbaijan
+2002 1289 1131 3196 3 GEO: RUS  Georgia:_Russia_(Soviet_Union)
+2004 1151 1134 1304 3 QAT: RUS  Qatar:_Russia_(Soviet_Union)
+1994 1489 1283 3253 3 YEM  Yemen_(North_Yemen)
+1990 70 70 70 3 PAK Pakistan
+1994 38 38 38 3 PAK Pakistan
+1995 52 52 55 3 PAK Pakistan
+1996 42 42 42 3 PAK Pakistan
+2007 585 585 727 3 PAK Pakistan
+2008 2998 2980 3699 3 PAK Pakistan
+2009 5968 4443 6317 3 PAK Pakistan
+2010 5502 5250 6337 3 PAK Pakistan
+2011 2598 2561 2909 3 AFG: PAK Afghanistan:_Pakistan
+2012 2309 2309 2377 3 PAK Pakistan
+2013 1630 1630 1659 3 PAK Pakistan
+2014 2616 2616 2665 3 PAK Pakistan
+2015 1954 1954 1989 4 AFG: PAK Afghanistan:_Pakistan
+2016 526 526 534 4 AFG: PAK Afghanistan:_Pakistan
+2017 506 506 507 4 AFG: PAK Afghanistan:_Pakistan
+2018 147 147 155 4 AFG: PAK Afghanistan:_Pakistan
+2019 148 148 153 3 PAK Pakistan
+2020 186 186 186 3 PAK Pakistan
+2021 259 257 273 3 AFG: PAK Afghanistan:_Pakistan
+1999 67 64 76 3 KGZ: TJK Kyrgyzstan:_Tajikistan:_Uzbekistan
+2000 471 410 482 4 KGZ: UZB Kyrgyzstan:_Uzbekistan
+2004 37 19 50 3 UZB Uzbekistan
+2001 1583 1538 2032 4 AFG: PAK: USA Afghanistan:_Pakistan:_United_States_of_America
+2002 878 864 1298 4 AFG: PAK Afghanistan:_Pakistan
+2003 65 65 91 4 AFG: PAK: TUR Afghanistan:_Pakistan:_Turkey
+2004 378 378 952 4 AFG: PAK: SAU Afghanistan:_Pakistan:_Saudi_Arabia
+2005 108 107 289 4 AFG: PAK: SAU Afghanistan:_Pakistan:_Saudi_Arabia
+2006 246 246 382 4 AFG: PAK: SAU Afghanistan:_Pakistan:_Saudi_Arabia
+2007 174 149 225 4 AFG: PAK: SAU: SOM Afghanistan:_Pakistan:_Saudi_Arabia:_Somalia
+2008 290 285 377 4 AFG: PAK: SOM: YEM  Afghanistan:_Pakistan:_Somalia:_Yemen_(North_Yemen)
+2009 450 416 688 4 AFG: PAK: SOM Afghanistan:_Pakistan:_Somalia
+2010 313 286 891 4 AFG: PAK Afghanistan:_Pakistan
+2011 203 203 317 4 AFG: PAK: SOM Afghanistan:_Pakistan:_Somalia
+2012 225 223 313 4 AFG: PAK: SOM Afghanistan:_Pakistan:_Somalia
+2013 38 35 39 4 AFG: PAK: SOM Afghanistan:_Pakistan:_Somalia
+2014 132 123 144 4 AFG: PAK: SYR Afghanistan:_Pakistan:_Syria
+2015 87 81 102 4 AFG: PAK: SYR Afghanistan:_Pakistan:_Syria
+2016 117 117 146 4 AFG: PAK Afghanistan:_Pakistan
+2017 111 100 194 4 AFG: PAK: SYR Afghanistan:_Pakistan:_Syria
+2019 37 34 56 4 AFG Afghanistan
+1990 42 42 45 3 LBN Lebanon
+1991 28 28 31 3 LBN Lebanon
+1992 87 87 120 3 ARG: ISR: LBN Argentina:_Israel:_Lebanon
+1993 124 124 186 3 ISR: LBN Israel:_Lebanon
+1994 82 71 120 3 LBN Lebanon
+1995 74 71 85 3 ISR: LBN Israel:_Lebanon
+1996 95 93 103 3 ISR: LBN Israel:_Lebanon
+1997 82 82 90 3 LBN Lebanon
+1998 54 54 56 3 LBN Lebanon
+1999 41 41 42 3 LBN Lebanon
+2006 807 805 1108 3 ISR: LBN Israel:_Lebanon
+2011 359 358 518 3 RUS : TUR Russia_(Soviet_Union):_Turkey
+2015 30 23 33 3 RUS : SYR Russia_(Soviet_Union):_Syria
