@@ -15,8 +15,6 @@ import numpy as np
 import os
 os.environ['USE_PYGEOS'] = '0'
 
-#import geopandas
-#import folium
 import sys;
 import math;
 import matplotlib.colors;
@@ -112,10 +110,49 @@ for (obsFile, dataFile) in zip(obsList, simList):
             df_obs[c].plot(ax=axs, lw=2);
 
 
+            # Calculate the squared differences
+            squared_diff = (df_mean[c] - df_obs[c])**2
+            # Compute RMSE
+            rmse = np.sqrt(squared_diff.mean())
+
+            std = np.std(df_obs[c].to_numpy())
+            # Print RMSE
+            print(f"Root Mean Square Error (RMSE): {rmse}")
+            # Display RMSE as text in the top-right corner
+            '''
+            plt.text(
+                0.05, 0.90,  # Position slightly above the top-right corner
+                f"rmse = {rmse:.1e}",
+                fontsize=10, color='black',
+                transform=plt.gca().transAxes,
+                #ha='right', va='bottom',  # Align text to the top-right
+                ha='left', va='bottom',
+                #bbox=dict(facecolor='white', alpha=0.8)
+            )
+            '''
+            plt.text(
+                0.05, 0.90,  # Position slightly above the top-right corner
+                f"nrmse = {rmse/(2*std):.1e}",
+                fontsize=10, color='black',
+                transform=plt.gca().transAxes,
+                #ha='right', va='bottom',  # Align text to the top-right
+                ha='left', va='bottom',
+                #bbox=dict(facecolor='white', alpha=0.8)
+            )
+
+
+            #plt.legend()
+            plt.ylabel('Index')
+
+
+
             plt.title(c);
             fig.savefig('fig00_'+c+'.jpg')
             plt.show()
             plt.close()
+
+
+
 
 
 ######################################################
@@ -283,62 +320,4 @@ for year in range(YEAR_START, YEAR_STOP):
 df_init.plot()
 plt.show()
 
-
-def folium_plot(df_init, df_sum, titles):
-
-    # plot
-    # Read the geopandas dataset
-    world = geopandas.read_file(geopandas.datasets.get_path('naturalearth_lowres'))
-    print(world.head())
-    world.head()
-    df_init = world.merge(df_init, how="left", left_on=['iso_a3'], right_on=['Code'])
-    df_init['name']=df_init['name'].str.replace(" ","")
-
-    # Create a map
-    i=0;
-    my_map=[]
-    for nameVar in titles:
-        print(i, nameVar)
-        my_map.append( folium.Map() )
-        # Add the data
-        folium.Choropleth(
-            geo_data=df_init,
-            name='choropleth',
-            data=df_init,
-            columns=['name', nameVar],
-            key_on='feature.properties.name',
-            fill_color='YlOrRd',
-            nan_fill_color="White",
-            fill_opacity=0.71,
-            line_opacity=0.2,
-            legend_name=nameVar
-        ).add_to(my_map[i])
-        my_map[i].save('out_'+nameVar+'.html')
-        i = i + 1
-
-    # print net points
-    df_sum = world.merge(df_sum, how="left", left_on=['iso_a3'], right_on=['Code'])
-    i=0;
-    my_map2=[]
-    for nameVar in domains:
-        my_map2.append( folium.Map() )
-        # Add the data
-        folium.Choropleth(
-            geo_data=df_sum,
-            name='choropleth',
-            #data=happy.loc[(happy['Year']=='2018')],
-            data=df_sum,
-            #columns=['Entity', 'GDP_2015_USD'],
-            columns=['name', nameVar],
-            key_on='feature.properties.name',
-            fill_color='YlOrRd',
-            nan_fill_color="White",
-            fill_opacity=0.71,
-            line_opacity=0.2,
-            legend_name=nameVar
-        ).add_to(my_map2[i])
-        my_map2[i].save('net_'+nameVar+'.html')
-        i = i + 1
-
-folium_plot(df_init, df_sum, titles)
 

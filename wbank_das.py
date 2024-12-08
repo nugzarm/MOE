@@ -113,15 +113,15 @@ R_MAX = 0.50   # obs error scaling factor (required by DAS2C and DASBASE scenari
 refState = ['FJI']  # reference state providing obs for other states to assimilate
 '''
 
-'''
+#'''
 # improvement of randomly selected indicators, one indicator per year for every country separately
 # a remarkably good agreement with obs; 
-SCNR = "PTBMANY"
+SCNR = "PTB_ONE"
 YEAR_START = 1991
-YEAR_STOP  = 2050
+YEAR_STOP  = 2017
 keyVars_i = [] 
 deltasz = []
-'''
+#'''
 
 '''
 # perturbation of selected indicators, every year for every country separately
@@ -139,7 +139,7 @@ deltasz = [-0.005, -0.005, -0.005]    # annual perturbation values (normalised s
 # when stateCodes is empty, countries of the CONTINENT are simulated
 # when both stateCodes and Continent are empty, the whole world is simulated
 # CONTINENT: Africa, Europe, SEAsia, MEast, AmericaN, AmericaS, ALL 
-stateCodes = ["FRA"]
+stateCodes = []
 CONTINENT = "ALL"
 
 
@@ -147,7 +147,7 @@ ENS_SIZE = 123;    # Ensemble size
 
 # coeficient to scale errors added to ensemble members
 # the errors are sampled from a gaussian with zero mean and the model error covariance
-gaussErrorScale = 0.1;
+gaussErrorScale = 1.0;
 
 
 ################################################################
@@ -809,46 +809,6 @@ for ens_count in range(0, ENS_SIZE):
 
         #print("np_init.shape: ", np.shape(np_init))
         #print("np_Data_year.shape: ", np.shape(npData_year))
-        '''
-        deli = +0
-        BATTLE_i = +31 + deli
-        HOMICIDE_i = +30 + deli
-
-        RICHSHARE_i = +29 + deli
-        POPGROWTH_i = +28 + deli
-        HDI_i = +27 + deli
-        LIBDEM_i = +26 + deli
-        LIFEEXP_i = +25 + deli
-        SCHOOL_i = +24 + deli
-
-        RENEWABLES_i = +23 + deli
-        SCIMIL_i = +22 + deli
-        SCIGDP_i = +21 + deli 
-
-        ENERGYPC_i = +20 + deli
-        MILUSD_i = +19 + deli 
-        GDPPCGROW_i = +18 + deli
-        GDPPC_i = +17 + deli
-        FDIOUT_i =  +16 + deli
-        TRDGDP_i = +15 + deli
-        POPDENS_i = +14 + deli
-        POP_i = +13 + deli
-        GDPGROW_i = +12 + deli
-        GDP_i = +11 + deli
-
-        CEREAL_i = +10 + deli
-        AGRILAND_i = +9 + deli
-        FOREST_i =  +8 + deli
-        LANDA_i = +7 + deli
-
-        FERTI_i = +6 + deli        
-        PESTI_i = +5 + deli
-        POTASH_i = +4 + deli
-        PHOS_i = +3 + deli
-        NITRO_i = +2 + deli
-        CO2_i = +1 + deli
-        TEMPA_i = 0 + deli
-        '''
 
         row_index = 0
         # loop over countries
@@ -1038,7 +998,8 @@ for ens_count in range(0, ENS_SIZE):
                 #print("XXXXXXXXXXXXXXXXXXXXXXXXXX end DASEBASE and DAS2C)
 
 
-            if( SCNR == "PTBMANY" ):
+            if( SCNR == "PTBMANY" or SCNR == "PTB_ONE"):
+                
                 ###########
                 #print("year=", year);
                 #print("row_index=", row_index);
@@ -1048,9 +1009,10 @@ for ens_count in range(0, ENS_SIZE):
 
                 scales = np.array(scales)
                 scales = scales.astype(np.float64)
-
-
-                if not keyVars_i: # if list is empty
+                delta = 0.0;
+                
+                ################ random incremental improvement
+                if( SCNR == "PTB_ONE"):
                     # get keyVar_index to prturb
                     keyVar_i = random.randint(6*0, int(np.shape(Xb)[0])-1-0 ) # best random
                     #keyVar_i = int(GDPPC_i); # baseline
@@ -1109,6 +1071,8 @@ for ens_count in range(0, ENS_SIZE):
                 ######## EVENTS
                 '''
                 ######## FIN Crisis
+                deltasz = []
+                deltasz.append(0.0)                
                 if( int(year) == 2009 ):
                     keyVars_i = [GDPGROW_i, GDPPCGROW_i, TRDGDP_i]
                     deltasz[0] = -0.002;
@@ -1127,6 +1091,8 @@ for ens_count in range(0, ENS_SIZE):
 
                 '''
                 ######## COVID
+                deltasz = []
+                deltasz.append(0.0)                
                 if( int(year) == 2020 ):
                     keyVars_i = [GDP_i, TRDGDP_i]
                     deltasz[0] = -0.01;
@@ -1138,6 +1104,8 @@ for ens_count in range(0, ENS_SIZE):
                 '''
                 '''
                 ######## WAR
+                deltasz = []
+                deltasz.append(0.0)                
                 if( int(year) == 2022 ):
                     keyVars_i = [MILUSD_i, HOMICIDE_i, BATTLE_i]
                     deltasz[0] = +0.01;
@@ -1148,10 +1116,14 @@ for ens_count in range(0, ENS_SIZE):
 
                 '''
                 ######### Fixed CO2
+                deltasz = []
+                deltasz.append(0.0)                
                 #if( int(year) > 2024 and keyVar_i == CO2_i):
                 #    deltasz[0] = +0.0;
 
                 ######### Increased CO2
+                deltasz = []
+                deltasz.append(0.0)                
                 if( int(year) == 2025):
                     keyVars_i = [CO2_i]
                     deltasz[0] = +0.01;
