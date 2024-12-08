@@ -2,7 +2,7 @@ MOE (Model Of Everything)
 
 Purpose: Simulates state indicators for a bunch of countries from 1991 to 2017.
 
-Disclimer: THis code is intended to facilitate discussion and stimulate hypotheses concerning future scenarios.
+Disclimer: THis code is intended to facilitate discussion and stimulate hypotheses concerning scenarios.
 By no means it can be used to support management practices or advise policy decisions.
 
 HOWTO run:
@@ -38,9 +38,9 @@ Reference: to be added when published
 
 ####################
 
-Each country is defined as a collection of state indicators such as area, population, GDP, CO2 emissions, inequality, life expectancy, among others. These indicators collectively characterize a country and often vary over time. To analyse these variations, we assume a Gaussian multivariate distribution of these indicators with known mean and error-covariance derived from data. This enables us to build a numerical model evolving the state indicators through time. Despite relatively simple formulation, this model shows a remarkable agreement with observations which has prompted siulation of several “what if …” scenarios.
+Each country is defined as a collection of state indicators such as area, population, GDP, CO2 emissions, inequality, life expectancy, among others. These indicators collectively characterize a country and often vary over time. We assume a Gaussian multivariate distribution of these indicators with known mean and error-covariance (derived from data). Under these assumptions we can build a numerical model evolving the state indicators through time. Despite relatively simple formulation, this model shows a remarkable agreement with observations which has prompted us to simulate several “what if?” scenarios.
 
-To analyse the model output, a multiplicative factor of either (+1) or (-1) is assigned to every state indicator thus transforming it into the “quality” index (all contaminants and deaths indicators having a negative “quality” index).  A total state “quality” index is calculated as an arithmetic mean of the “quality” indexes of individual indicators. A similar “quality” index is calculated for subgroups of indicators representing environmental contaminants, agriculture, economic development, technology and innovation, social progress, and social disruptions given by violent deaths (and encompassing both homicide and battle-related deaths in state conflicts). The “quality” index varies from -1 to 0 for the negative indicators, and from 0 to 1 for the positive indicators, the higher the value the better the “quality” of the indicator.
+To analyse the model output, a multiplicative factor of either (+1) or (-1) is assigned to every state indicator thus transforming it into the “quality” index (all contaminants and conflict-deaths indicators having a negative “quality” index).  A total state “quality” index is calculated as an arithmetic mean of the “quality” indexes of individual indicators. A similar “quality” index is calculated for subgroups of indicators representing environmental contaminants, agriculture, economic development, technology and innovation, social progress, and social disruptions given by violent deaths (and encompassing both homicide and battle-related deaths in state conflicts). The “quality” index varies from -1 to 0 for the negative indicators, and from 0 to 1 for the positive indicators, the higher the value the better the “quality” of the indicator.
 
 
 Data
@@ -48,13 +48,14 @@ Data
 The Number of Battle Related Deaths (State Conflicts) have been obtained from Uppsala Data Conflict Program
 (https://ucdp.uu.se/ )
 
-The rest of the data (coming from various sources) have been formatted to a uniform style and offered online by “Our World in Data” (https://ourworldindata.org/ ). 
+The rest of the data (coming from various sources) have been formatted to a uniform style and are available online from “Our World in Data” (https://ourworldindata.org/ ). 
 
 #########################################
 
 Further Details:
 
 a) Model
+
 THe model is based on an ensemble optimal imterpolation. For each simulated year and each country it assumes state indicators of that coutry next year are 
 exactly the same as the state indicators this year except random perturbations. 
 These perturbations have a Gaussian probability distribution and parameters of that distribution (mean and covariance matrix) are derived from historical observations. 
@@ -62,8 +63,9 @@ The covariance matrix holds an information about correlations between these pert
 and assuming the value of an "observed" state indicator "A" is known, one can make an educated guess of the value of another "unobserved" state indicator "B".
 
 b) Plots
+
 Every plot shows an index of either a specific state-indicator or an index aggregated over a disciplinaty domain and integrated over the globe.
-Indices for contaminants and conflict deaths vary from -1 to 0. All other indices vary from 0 to 1. 
+Indices for contaminants and conflict-deaths vary from -1 to 0. All other indices vary from 0 to 1. 
 The higher the value of the index the better the quality of the indicator.
 
 
