@@ -7,15 +7,15 @@ By no means it can be used to support management practices or advise policy deci
 <br><br>
 HOWTO:
 <ol>
-<li> Step1:  open wbank_cov.py, search for USER INPUT, uncomment set of countries to simulate over, run the script to produce error-covariance:
+<li> Open wbank_cov.py, search for USER INPUT, uncomment set of countries to simulate over, run the script to produce error-covariance:
 
 python3 wbank_cov.py 
 </li><li>
-#Step2:  open wbank_das.py, search for USER INPUT, uncomment one of the simulation scenarios, run the script:
+Open wbank_das.py, search for USER INPUT, uncomment one of the simulation scenarios, run the script:
 
 python3 wbank_das.py
 </li><li>
-#Step 3:  to visualise simulated data:
+Io visualise simulated data:
 
 python3 wbank_plot_ts_var.py
 
