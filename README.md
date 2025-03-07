@@ -23,10 +23,6 @@ python3 wbank_plot_ts_var.py
 </li>
 </ol>
  
-Author: Nugzar Margvelashvili
-
-Hobart, December 2024.
-
  
 Reference: to be added when published
 
