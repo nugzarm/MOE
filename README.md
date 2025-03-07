@@ -5,7 +5,7 @@ Purpose: Simulates state indicators for a bunch of countries from 1991 to 2017.
 Disclimer: THis code is intended to facilitate discussion and stimulate hypotheses concerning scenarios.
 By no means it can be used to support management practices or advise policy decisions.
 <br><br>
-HOWTO run:
+HOWTO:
 
 #Step1:  open wbank_cov.py, search for USER INPUT, uncomment set of countries to simulate over, run the script to produce error-covariance:
 
@@ -30,8 +30,9 @@ Hobart, December 2024.
 Reference: to be added when published
 
 ####################
-<br>
+<br><br>
 Further Details:
+
 <br>
 a) Data
 
@@ -48,6 +49,7 @@ exactly the same as the state indicators this year except random perturbations.
 These perturbations have a Gaussian probability distribution and parameters of that distribution (mean and covariance matrix) are derived from historical observations. 
 The covariance matrix holds an information about correlations between these perturbations. Given these (and a couple of other) assumptions, 
 and assuming the value of an "observed" state indicator "A" is known, one can make an educated guess of the value of another "unobserved" state indicator "B".
+
 <br>
 c) Plots
 
