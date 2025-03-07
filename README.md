@@ -6,21 +6,22 @@ Disclimer: THis code is intended to facilitate discussion and stimulate hypothes
 By no means it can be used to support management practices or advise policy decisions.
 <br><br>
 HOWTO:
-
-#Step1:  open wbank_cov.py, search for USER INPUT, uncomment set of countries to simulate over, run the script to produce error-covariance:
+<ol>
+<li> Step1:  open wbank_cov.py, search for USER INPUT, uncomment set of countries to simulate over, run the script to produce error-covariance:
 
 python3 wbank_cov.py 
-
+</li><li>
 #Step2:  open wbank_das.py, search for USER INPUT, uncomment one of the simulation scenarios, run the script:
 
 python3 wbank_das.py
-
+</li><li>
 #Step 3:  to visualise simulated data:
 
 python3 wbank_plot_ts_var.py
 
 (red is observations)
-
+</li>
+</ol>
  
 Author: Nugzar Margvelashvili
 
